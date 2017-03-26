@@ -62,100 +62,32 @@ library("gtable")
 library("treemap")
 library("RColorBrewer")
 
-## preprocess work, Load dataframe already prepared for plotting
-input_data =  read.csv("mydata_wRegions.csv",header = T,as.is = T)
-input_data = input_data[!is.na(input_data$longitude),]
-input_data = input_data[input_data$value != 0,]
-input_data[!is.na(input_data$Commodity_Name) & input_data$Commodity_Name == "COCOA",10] = "Cocoa"
-#Load the data for Google motion data
-country<-read.csv("country_cleaned.csv")
-# force all values in country dataset to be numeric
-for (i in 3:7){
-  country[,i]<-as.numeric(country[,i])
-}
-## end preprocess data
-
-
-
-## mergring exchange rate data
-exchange_rate =  read.csv("exchange_rate.csv")
-CPI =  read.csv("CPI.csv")
-import <- filter(input_data, input_data$type=="Import") 
-Export <- filter(input_data, input_data$type=="Export") 
-import$id <- paste0(import$Country,"/",import$Year)
-import<-merge(x = import, y = exchange_rate, by = "id", all.x = TRUE)
-
-import.without.aggregate <- filter(import, import$Commodity_Name != "Annual Aggregate")
-import.without.aggregate$source <- as.character(import.without.aggregate$Country)
-import.without.aggregate$target <- as.character(import.without.aggregate$Commodity_Name)
-##
-
-## map creation preprocess
-data(wrld_simpl) # Basic country shapes
-bgcolor = "#000000"
-arc_colors = c("#ffdbdb","#c4e0ff","#e8fff0","#ffe9bf","pink","orange")
-map_pal = data.frame(AnnualAggregate = c("#ff6d6d"),Chocolate = c("blue"),Coffee = c("green"),COCOA = c("#ffe9bf"),Spices = c("pink"),Tea = c("orange"))
-names(map_pal)[1] = "Annual Aggregate"
-## end preprocess map
-
-## Load clustering data
-cluster_data_import = read.csv("clustering-ready-Import.csv")
-code = read.csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_world_gdp_with_codes.csv')[,c(1,3)]
-
-## end loading cluster data
-
+## Load Data
+# country<-read.csv("country_cleaned.csv")
+# data_country = read.csv("data.country.csv",header=TRUE,as.is=T)
+# data_aggregate = read.csv("data_aggregate.csv",header=TRUE,as.is=T)
+# data.region = read.csv("data.region.csv",header=TRUE,as.is=T)
 
 ## UI Function
 
 ui<- navbarPage(
   
-  ##link to css.file
+  ## link to css.file
   theme = "bootstrap2.css",
   
-  ##Project Title
-  "TRACE OF AROMA - World Trade with US",
-
+  ## Project Title
+  "TRAVELLING WITH EXPEDIA",
+  
   tabPanel("Home",
            htmlOutput("blankspace"),
-           titlePanel("TRACE OF AROMA"),
+           titlePanel("TRAVELLING WITH EXPEDIA"),
            h4(htmlOutput("text")),
            htmlOutput("teammates")
-           ),
-  
-  ## 3D Globe tab
-  tabPanel("3D Globe",
-           titlePanel("Coffee ,tea, and others traded between US and the world"),
-           absolutePanel(id = "controls", class = "panel panel-default",
-                         draggable = TRUE, 
-                         top = 180, left = 60, right = "auto", bottom = "auto",
-                         width = 350, height = "auto",
-                         
-                         h2("3D Explorer"),
-                         
-                         radioButtons(inputId = "type",
-                                      label  = "Choose import/export",
-                                      choices = c('Export','Import'),
-                                      selected ='Import'),
-                         sliderInput(inputId = "year_3D",
-                                     label = "Select a year",
-                                     value = 1996, min =1996, max =2016),
-                         sliderInput(inputId = "number_countries",
-                                     label = "Top Countries in Trade",
-                                     value = 10,min = 1,max = 50),
-                         selectInput(inputId = "commodity_3D",
-                                     label  = "Select the commodity",
-                                     choices = c('Annual Aggregate','Chocolate', 'Coffee','Cocoa','Spices','Tea'),
-                                     selected ='Coffee')
-                         ),
-           
-           
-           
-           globeOutput("Globe",width="100%",height="650px")),
-  ## end 3D Globe tab
+  ),
   
   ## 2D Map tab
   tabPanel("2D Map",
-           titlePanel("Coffee ,tea, and others traded between US and the world"),
+           titlePanel("Popular Travel Destinations"),
            
            leafletOutput("mymap",width = "100%", height = 600),
            
@@ -166,232 +98,113 @@ ui<- navbarPage(
                          
                          h2("2D Explorer"),
                          
-                         radioButtons(inputId = "type_2D",
-                                      label  = "Choose import/export",
-                                      choices = c('Export','Import'),
-                                      selected ='Import'),
-                         sliderInput(inputId = "year_2D",
-                                     label = "Select a year",
-                                     value = 2016, min =1996, max =2016),
-                         sliderInput(inputId = "num_countries",
-                                     label = "Top Countries in Trade",
+                         radioButtons(inputId = "is_booking",
+                                      label  = "Choose click/book",
+                                      choices = c('click','book'),
+                                      selected ='book'),
+                         sliderInput(inputId = "month",
+                                     label = "Select a month",
+                                     value = 12, min =1, max =12),
+                         sliderInput(inputId = "num_destination",
+                                     label = "Top travel destinations",
                                      value = 20,min = 1,max = 50),
-                         selectInput(inputId = "commodity_2D",
-                                     label  = "Select the commodity",
-                                     choices = c('Annual Aggregate','Chocolate', 'Coffee','Cocoa','Spices','Tea'),
-                                     selected ='Coffee')
+                         selectInput(inputId = "user_location_region",
+                                     label  = "Select user region",
+                                     choices = c('CA','NY', 'TX','FL','ON','IL','WA','NJ','BC','PA'),
+                                     selected ='CA')
                          
            )
   ),
   
   ## end 2D Map tab
   
-  ## Summary Statistics tab
-  navbarMenu("Summary Statistics",
-             
-             
-             
-             ##Regional Findings tabset
+  ##Regional Findings tabset
              tabPanel("Regional Findings",
                       tabsetPanel(
                         
                         ##Continent & Region
-                        tabPanel("Regional statistics",
+                        tabPanel("Regional Statistics",
                                  titlePanel("Continent & Region"),
                                  sidebarLayout(
                                    sidebarPanel(
-                                     selectInput(inputId = "commodity",
-                                                 label  = "choose the commodity",
-                                                 choices = na.omit(unique(input_data$Commodity_Name)),
-                                                 selected ='Coffee'),
-                                     sliderInput(inputId = "year",
-                                                 label = "Select a year",
-                                                 value = 2016, min =1996, max =2016),
+                                     sliderInput(inputId = "traveler",
+                                                 label = "Select the number of travelers ",
+                                                 value = 1, min =1, max =18),
                                      width = 3
                                      
                                    ),
                                    
                                    mainPanel(
-                                     plotlyOutput("regional_import",height = "420px"),
-                                     plotOutput("continent_import", height = "330px")
+                                     plotlyOutput("regional_import",height = "400px"),
+                                     plotOutput("continent_import", height = "600px")
                                      
                                    )
                                    
                                  )
                         ),
                         
-#                         ### Tree Map
-#                         tabPanel("Market Share",
-#                                  titlePanel("Market Share of Countries"),
-#                                  sidebarLayout(
-#                                    sidebarPanel(
-#                                      selectInput(inputId = "com_tree",
-#                                                  label  = "Select the commodity",
-#                                                  choices = c('Chocolate', 'Coffee','Cocoa','Spices','Tea'),
-#                                                  selected ='Coffee'),
-#                                      sliderInput(
-#                                        inputId = "year_tree",
-#                                        label = "Select a year",
-#                                        value = 2016, min =1996, max =2016),
-#                                      sliderInput(inputId = "number_countries_tree",
-#                                                  label = "Top Countries in Trade",
-#                                                  value = 10,min = 1,max = 20),
-#                                      
-#                                      width = 3
-#                                    ),
-#                                    
-#                                    mainPanel(
-#                                      plotOutput("treemap",width = "100%", height = 600),
-#                                      absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
-#                                                    draggable = TRUE, 
-#                                                    top = 600, left = 20, right = "auto", bottom = "auto",
-#                                                    width = 350, height = "auto",
-#                                      plotOutput("ggplot",width="100%",height="250px")
-#                                      )
-#                                    )
-#                                  )
-#                         )
-#                         ### end Tree Map
-### Tree Map
-tabPanel("Popular Activities",
-         titlePanel("Popular Activities in the Destination Country"),
-         sidebarLayout(
-           sidebarPanel(
-             selectInput(inputId = "country_name",
-                         label  = "Select the destination country",
-                         choices = c(' United States of America',' Canada', ' Italy',' United Kingdom',' Germany',' France',' Spain',' Mexico',' Australia',' Japan'),
-                         selected =' United States of America'),
-             #              sliderInput(
-             #                inputId = "activity_number",
-             #                label = "Select the number of activities",
-             #                value = 1, min =1, max =50),
-             sliderInput(inputId = "activity_number",
-                         label = "Select the number of events",
-                         value = 1,min = 1,max = 50),
-             
-             width = 3
-           ),
-           
-           mainPanel(
-             plotOutput("treemap",width = "100%", height = 600),
-             absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
-                           draggable = TRUE, 
-                           top = 600, left = 20, right = "auto", bottom = "auto",
-                           width = 350, height = "auto",
-                           plotOutput("ggplot",width="100%",height="250px")
-             )
-           )
-         )
-)
-### end Tree Map
-                      )
-             ),
-             #end Regiona
-             
-             ### Exchange Rate
-             tabPanel("Exchange Rate", 
-                      tabsetPanel(
-                        
-                        ### end Exchange Rate
-                        
-                        ### Mirror Histogram
-                        tabPanel("Mirror Histogram",
-                                 titlePanel("Trade Import and Export vs Exchange Rate"),
+                        ## tree map
+                        tabPanel("Popular Activities",
+                                 titlePanel("Popular Activities in the Destination Country"),
                                  sidebarLayout(
                                    sidebarPanel(
-                                     selectInput(inputId = "commodity_hist",
-                                                 label  = "Select the commodity",
-                                                 choices = c('Annual Aggregate','Chocolate', 'Coffee','Cocoa','Spices','Tea'),
-                                                 selected ='Coffee'),
-                                     selectInput(inputId = "country_hist1",
-                                                 label  = "Select the country1",
-                                                 choices = sort(unique(input_data$Country)),
-                                                 selected ='Brazil'),
-                                     selectInput(inputId = "country_hist2",
-                                                 label  = "Select the country2",
-                                                 choices = sort(unique(input_data$Country)),
-                                                 selected ='Colombia'),
-                                     width = 3
+                                     selectInput(inputId = "country_name",
+                                                 label  = "Select the destination country",
+                                                 choices = c(' United States of America',' Canada', ' Italy',' United Kingdom',' Germany',' France',' Spain',' Mexico',' Australia',' Japan'),
+                                                 selected =' United States of America'),
+                                     #              sliderInput(
+                                     #                inputId = "activity_number",
+                                     #                label = "Select the number of activities",
+                                     #                value = 1, min =1, max =50),
+                                     sliderInput(inputId = "activity_number",
+                                                 label = "Select the number of events",
+                                                 value = 10,min = 1,max = 50),
                                      
+                                     width = 3
                                    ),
                                    
                                    mainPanel(
-                                     plotOutput("Hist1"),
-                                     plotOutput("Hist2")
+                                     plotOutput("treemap",width = "100%", height = 600),
+                                     absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
+                                                   draggable = TRUE, 
+                                                   top = 600, left = 20, right = "auto", bottom = "auto",
+                                                   width = 350, height = "auto",
+                                                   plotOutput("ggplot",width="100%",height="250px")
+                                     )
                                    )
                                  )
-                                 
-                                 
                         ),
+                        ### end Tree Map
                         
-                        tabPanel("Regression",
-                                 titlePanel("Relationship between Import and Exchange Rate"),
+                        ### Radar Chart
+                        tabPanel("Hotel Analysis",
+                                 titlePanel("Top Hotels in a specific destination"),
                                  sidebarLayout(
                                    sidebarPanel(
-                                     selectInput(inputId = "exchange_commodity",
-                                                 label  = "choose the commodity",
-                                                 choices = unique(import$Commodity_Name),
-                                                 selected ='Coffee'),
-                                     selectInput(inputId = "exchange_country1",
-                                                 label  = "choose the country",
-                                                 choices = unique(import$Country),
-                                                 selected ='Brazil'),
-                                     selectInput(inputId = "exchange_country2",
-                                                 label  = "choose the country",
-                                                 choices = unique(import$Country),
-                                                 selected ='Colombia'),
+                                     sliderInput(inputId = "destination",
+                                                 label  = "Select the destination",
+                                                 value = 100408, min =7997, max =196566132
+                                     ),
+                                     sliderInput(
+                                       inputId = "topK",
+                                       label = "Select a K",
+                                       value = 10, min =1, max =30),
                                      width = 3
-                                     
                                    ),
                                    
                                    mainPanel(
-                                     plotOutput("linear_exchange1"),
-                                     plotOutput("linear_exchange2")
+                                     plotOutput("radarchart",width = "100%", height = 600),
+                                     absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
+                                                   draggable = TRUE, 
+                                                   top = 600, left = 20, right = "auto", bottom = "auto",
+                                                   width = 350, height = "auto",
+                                                   plotOutput("radarPlot",width="100%",height="250px")
+                                     )
                                    )
                                  )
-                                 
                         )
-                        ### end Mirror Histogram
-                      )
-                      
-                      
-             ),
-             
-             ## Clustering tab
-             tabPanel("Clustering Analysis",
-                      titlePanel("Clustering Analysis"),
-                      sidebarLayout(
-                        sidebarPanel(
-                          
-                          sliderInput(inputId = "number_clusters",
-                                      label = "Number of Clusters",
-                                      value = 5,min = 2,max = 10),
-                          sliderInput(
-                            inputId = "year_cluster",
-                            label = "Select a year",
-                            value = 1996, min =1996, max =2016),
-                          width = 3
-                        ),
+                        ### end Radarchart
                         
-                        mainPanel(
-                          plotlyOutput("cluster", width = "100%", height = "400px"),
-                          textOutput("text_1"),
-                          textOutput("text_2"),
-                          dataTableOutput("mytable")
-                        )
-                      )
-                      
-             ),
-             ## end Clustering tab
-             
-             ### Motion Chart
-             tabPanel("Motion Chart",
-                      mainPanel(
-                        htmlOutput("view")
                       )
              )
-             ### end Motion Chart
-             ## end Summary Statistics tab
-             
-  )
 )
