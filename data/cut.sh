@@ -1,0 +1,10 @@
+awk -F '\t' '$4 == "CA"' ./data.txt > data_cut.txt
+awk -F '\t' '$4 == "NY"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "TX"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "FL"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "ON"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "IL"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "WA"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "NJ"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "BC"' ./data.txt >> data_cut.txt
+awk -F '\t' '$4 == "PA"' ./data.txt >> data_cut.txt
