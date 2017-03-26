@@ -181,6 +181,7 @@ colnames(others.longtude) <- c("region","srch_destination_longitude")
 latitude <- rbind(usa.latitude, canada.latitude, others.latitude)
 longtitude <- rbind(usa.longtude, canada.longtude, others.longtude)
 locations <- merge(latitude, longtitude, by="region")
+locations$region <- toupper(locations$region)
 
 mergedata <- merge(data.aggre, locations, by.x = "user_location_region", by.y = "region", all.x = T)
 colnames(mergedata)[6:7] = c("user_location_latitude","user_location_longitude")
