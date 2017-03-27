@@ -1,0 +1,1391 @@
+"","Activity","Type","Country","Popular"
+"1","dining","activity"," United States of America",0.018154681863661
+"2","restaurants","social"," United States of America",0.0161920081539183
+"3","food","food"," United States of America",0.0115311934958466
+"4","familyfriendly","social"," United States of America",0.0112885903796198
+"5","walking","activity"," United States of America",0.0105439928159095
+"6","beach","naturalfeature"," United States of America",0.0100735389808656
+"7","shopping","shopping"," United States of America",0.0100661955251312
+"8","bars","social"," United States of America",0.00998494850085059
+"9","coffee","food"," United States of America",0.00948912555429058
+"10","business","field"," United States of America",0.00911925656839158
+"11","sports","activity"," United States of America",0.00884346847703927
+"12","historical","historical"," United States of America",0.00847907465220438
+"13","budget","lifestyle"," United States of America",0.0081206247806106
+"14","relaxing","lifestyle"," United States of America",0.00809774955732676
+"15","swimming","activity"," United States of America",0.00782365072744211
+"16","tours","activity"," United States of America",0.00774699036614673
+"17","theater","cultural"," United States of America",0.00744530487348522
+"18","museums","cultural"," United States of America",0.00744212152828304
+"19","livemusic","cultural"," United States of America",0.00743830858360195
+"20","sea","naturalfeature"," United States of America",0.0073479753445567
+"21","casino","entertainment"," United States of America",0.00733465234395897
+"22","art","cultural"," United States of America",0.00732855825908397
+"23","spas","activity"," United States of America",0.00732167482003679
+"24","hiking","activity"," United States of America",0.00715068983099979
+"25","luxury","lifestyle"," United States of America",0.0071210235739034
+"26","golf","activity"," United States of America",0.00711415217373922
+"27","river","naturalfeature"," United States of America",0.00710921396947761
+"28","university","landmark"," United States of America",0.00702960045848134
+"29","lake","naturalfeature"," United States of America",0.0069504594641285
+"30","mountains","naturalfeature"," United States of America",0.00684751536659605
+"31","biking","activity"," United States of America",0.00683322454244665
+"32","gardens","attraction"," United States of America",0.00681519184187434
+"33","boating","activity"," United States of America",0.00675763858278526
+"34","urban","urban"," United States of America",0.00665272076094162
+"35","port","transport"," United States of America",0.00665105817386461
+"36","islands","naturalfeature"," United States of America",0.00663250334469379
+"37","entertainment","cultural"," United States of America",0.00657696048330218
+"38","nightclubs","social"," United States of America",0.00657595959950122
+"39","skiing","activity"," United States of America",0.00653116127478934
+"40","nature","naturalfeature"," United States of America",0.0065258341249318
+"41","dancing","activity"," United States of America",0.00649219783112702
+"42","markets","shopping"," United States of America",0.00647723817098695
+"43","themepark","attraction"," United States of America",0.00647237728122336
+"44","culture","cultural"," United States of America",0.00646669100533521
+"45","smalltown","urban"," United States of America",0.00646634291840264
+"46","waterfalls","naturalfeature"," United States of America",0.00642834546172374
+"47","beer","food"," United States of America",0.00639456264065
+"48","monuments","landmark"," United States of America",0.00638460717071257
+"49","conferences","activity"," United States of America",0.00637647025552264
+"50","scenery","landscape"," United States of America",0.0063533854812727
+"51","fishing","activity"," United States of America",0.0063530580636109
+"52","festivals","cultural"," United States of America",0.00634386844423023
+"53","cafes","social"," United States of America",0.006343455795797
+"54","romantic","lifestyle"," United States of America",0.00633470876095705
+"55","adventure","activity"," United States of America",0.00631880772603917
+"56","sightseeing","activity"," United States of America",0.00631417054967077
+"57","architecture","architecture"," United States of America",0.00629991865090019
+"58","football","activity"," United States of America",0.00627984183240137
+"59","camping","activity"," United States of America",0.00627580047448344
+"60","zoo","attraction"," United States of America",0.006275592625993
+"61","churches","architecture"," United States of America",0.00626922208063521
+"62","baseball","activity"," United States of America",0.00626310042822753
+"63","sunsets","activity"," United States of America",0.00623822987742976
+"64","ferry","transport"," United States of America",0.00623025647742147
+"65","waterparks","attraction"," United States of America",0.0062228378897078
+"66","wildlife","naturalfeature"," United States of America",0.0062181718340346
+"67","basketball","activity"," United States of America",0.00620669049494091
+"68","horsebackriding","activity"," United States of America",0.00620413332063593
+"69","aquarium","attraction"," United States of America",0.00620047120016988
+"70","kayaking","activity"," United States of America",0.00618739273856148
+"71","wineries","attraction"," United States of America",0.00618277364999216
+"72","sailing","activity"," United States of America",0.00616985968006323
+"73","forests","naturalfeature"," United States of America",0.00616887902392877
+"74","naturalparks","attraction"," United States of America",0.00616630725121835
+"75","desert","naturalfeature"," United States of America",0.00616163842053992
+"76","hilly","landscape"," United States of America",0.0061612686149944
+"77","musicals","cultural"," United States of America",0.00615883246268403
+"78","skyscrapers","architecture"," United States of America",0.00614423242277019
+"79","nightlife","lifestyle"," United States of America",0.00613316195117245
+"80","marina","urban"," United States of America",0.00613277587736944
+"81","surfing","activity"," United States of America",0.00612350440300933
+"82","tropical","weather"," United States of America",0.00610866367898868
+"83","secluded","landscape"," United States of America",0.00610127826383112
+"84","hockey","activity"," United States of America",0.00609990879156953
+"85","jazz","cultural"," United States of America",0.00608330989968971
+"86","rafting","activity"," United States of America",0.0060776321260558
+"87","diving","activity"," United States of America",0.00607198599614526
+"88","soccer","activity"," United States of America",0.00607104576540876
+"89","whalewatching","activity"," United States of America",0.00606906588117984
+"90","seafood","food"," United States of America",0.00606563495382974
+"91","friendlypeople","social"," United States of America",0.00605873386488424
+"92","finedining","food"," United States of America",0.00605633042265331
+"93","sunnyweather","weather"," United States of America",0.0060559984695306
+"94","castle","architecture"," United States of America",0.00605558133609215
+"95","snorkeling","activity"," United States of America",0.00605530970795272
+"96","trendy","lifestyle"," United States of America",0.00605120657719364
+"97","waterskiing","activity"," United States of America",0.00604175748560303
+"98","countryside","naturalfeature"," United States of America",0.00603608124783474
+"99","excursions","activity"," United States of America",0.00603528279765012
+"100","chinatown","tourism"," United States of America",0.00603401115226451
+"101","snowboarding","activity"," United States of America",0.0060338002059906
+"102","skydiving","activity"," United States of America",0.00603361526261814
+"103","sunrise","activity"," United States of America",0.00603264326407447
+"104","cocktails","food"," United States of America",0.00602344978843722
+"105","opera","cultural"," United States of America",0.00601958157212853
+"106","jungle","naturalfeature"," United States of America",0.00601710018432011
+"107","volcanoes","naturalfeature"," United States of America",0.00601650080201588
+"108","crosscountryskiing","activity"," United States of America",0.0060147091819817
+"109","ecotourism","activity"," United States of America",0.00601451732152661
+"110","sharks","activity"," United States of America",0.00601441514674118
+"111","running","activity"," United States of America",0.0060142867949183
+"112","iceskating","activity"," United States of America",0.00601138518455069
+"113","windsurfing","activity"," United States of America",0.00601104024731507
+"114","glaciers","naturalfeature"," United States of America",0.0060090372703433
+"115","snowshoeing","activity"," United States of America",0.00600887678495243
+"116","temples","architecture"," United States of America",0.00600814063755825
+"117","hunting","activity"," United States of America",0.00600791814715059
+"118","hotsprings","naturalfeature"," United States of America",0.00600478829900647
+"119","snowmobileriding","activity"," United States of America",0.0060044972957671
+"120","cathedral","architecture"," United States of America",0.00600392370659704
+"121","rockclimbing","activity"," United States of America",0.00599156690347662
+"122","ruins","architecture"," United States of America",0.00598436114469691
+"123","safari","activity"," United States of America",0.0059828904694735
+"124","archaeology","historical"," United States of America",0.0059775417688243
+"125","birdwatching","activity"," United States of America",0.00597651493428446
+"126","sledding","activity"," United States of America",0.00597551869797342
+"127","rowing","activity"," United States of America",0.00597353588433023
+"128","segwaytours","activity"," United States of America",0.00597241441089844
+"129","horseracing","activity"," United States of America",0.00596995914072257
+"130","coralreefs","activity"," United States of America",0.00596792589339962
+"131","snowtubing","activity"," United States of America",0.00596660224795424
+"132","rainforest","naturalfeature"," United States of America",0.00596336110895788
+"133","caveexploring","activity"," United States of America",0.00595995652588061
+"134","resorts","lodging"," United States of America",0.0059585899987729
+"135","stargazing","activity"," United States of America",0.00595475436637399
+"136","northernlights","naturalfeature"," United States of America",0.00595426533390273
+"137","kitesurfing","activity"," United States of America",0.00595371693598352
+"138","indoorskiing","activity"," United States of America",0.00595223986181946
+"139","unescosite","historical"," United States of America",0.00595223986181946
+"140","dining","activity"," Canada",0.0221069550386195
+"141","restaurants","social"," Canada",0.019913309370691
+"142","food","food"," Canada",0.012167438328163
+"143","walking","activity"," Canada",0.0112675221043208
+"144","shopping","shopping"," Canada",0.0109894685837217
+"145","familyfriendly","social"," Canada",0.0107291787294029
+"146","coffee","food"," Canada",0.00939967494919233
+"147","bars","social"," Canada",0.00913766241326886
+"148","business","field"," Canada",0.00904587655887571
+"149","sports","activity"," Canada",0.00865383214155295
+"150","relaxing","lifestyle"," Canada",0.00798823398243916
+"151","spas","activity"," Canada",0.00779310501523038
+"152","budget","lifestyle"," Canada",0.00778350190257207
+"153","historical","historical"," Canada",0.00777602720401873
+"154","waterfalls","naturalfeature"," Canada",0.00777172898938613
+"155","swimming","activity"," Canada",0.00770334491424502
+"156","lake","naturalfeature"," Canada",0.00761210696366419
+"157","mountains","naturalfeature"," Canada",0.00736883684563371
+"158","tours","activity"," Canada",0.00736215839880314
+"159","skiing","activity"," Canada",0.00730349758296029
+"160","theater","cultural"," Canada",0.00725421588100728
+"161","hiking","activity"," Canada",0.00724842933289836
+"162","port","transport"," Canada",0.0071905844576355
+"163","livemusic","cultural"," Canada",0.00716112975457631
+"164","luxury","lifestyle"," Canada",0.00710530127690769
+"165","beach","naturalfeature"," Canada",0.00701321538084752
+"166","biking","activity"," Canada",0.00700941199827795
+"167","river","naturalfeature"," Canada",0.00692771572066209
+"168","golf","activity"," Canada",0.00690898985158416
+"169","smalltown","urban"," Canada",0.00690054012013544
+"170","museums","cultural"," Canada",0.00689320691693552
+"171","art","cultural"," Canada",0.00686672481966619
+"172","nightclubs","social"," Canada",0.00680957923509406
+"173","markets","shopping"," Canada",0.00678020498960228
+"174","casino","entertainment"," Canada",0.00672575748784006
+"175","gardens","attraction"," Canada",0.00671181682958408
+"176","urban","urban"," Canada",0.00663535509260472
+"177","university","landmark"," Canada",0.00660955511065338
+"178","entertainment","cultural"," Canada",0.00659836764002164
+"179","ferry","transport"," Canada",0.00657565002130849
+"180","hockey","activity"," Canada",0.00652797525722029
+"181","islands","naturalfeature"," Canada",0.00652698716181501
+"182","sea","naturalfeature"," Canada",0.00650032424379305
+"183","boating","activity"," Canada",0.0064690689553125
+"184","scenery","landscape"," Canada",0.00646396568277891
+"185","festivals","cultural"," Canada",0.00646368343126074
+"186","romantic","lifestyle"," Canada",0.00638563815080594
+"187","nature","naturalfeature"," Canada",0.00638519628952557
+"188","conferences","activity"," Canada",0.00637838054885673
+"189","dancing","activity"," Canada",0.00629654617285053
+"190","culture","cultural"," Canada",0.00628141442931786
+"191","cafes","social"," Canada",0.00626744324654926
+"192","adventure","activity"," Canada",0.00624430474262731
+"193","ecotourism","activity"," Canada",0.00623503058334597
+"194","chinatown","tourism"," Canada",0.00622948582430525
+"195","beer","food"," Canada",0.00622529363481227
+"196","crosscountryskiing","activity"," Canada",0.00620755800256688
+"197","kayaking","activity"," Canada",0.0061762899850961
+"198","wineries","attraction"," Canada",0.00617115288603419
+"199","churches","architecture"," Canada",0.00616168474179946
+"200","sightseeing","activity"," Canada",0.00616005398939276
+"201","snowboarding","activity"," Canada",0.00615791328763816
+"202","snowshoeing","activity"," Canada",0.00615786791123904
+"203","waterparks","attraction"," Canada",0.00612992217615398
+"204","architecture","architecture"," Canada",0.00612614704887563
+"205","themepark","attraction"," Canada",0.00612437517279553
+"206","nightlife","lifestyle"," Canada",0.00612275151161669
+"207","zoo","attraction"," Canada",0.00611266501100553
+"208","sailing","activity"," Canada",0.00611015066916589
+"209","sunsets","activity"," Canada",0.00610650719127281
+"210","whalewatching","activity"," Canada",0.00609904184925059
+"211","fishing","activity"," Canada",0.00609702860799986
+"212","glaciers","naturalfeature"," Canada",0.00609135045257942
+"213","musicals","cultural"," Canada",0.00608990893313942
+"214","snowmobileriding","activity"," Canada",0.00608912213628608
+"215","hilly","landscape"," Canada",0.00608856710917778
+"216","aquarium","attraction"," Canada",0.00608847232488542
+"217","marina","urban"," Canada",0.00608484307733313
+"218","football","activity"," Canada",0.0060834275039419
+"219","camping","activity"," Canada",0.00607164239095516
+"220","horsebackriding","activity"," Canada",0.00606843899525294
+"221","jazz","cultural"," Canada",0.00606766459409966
+"222","skyscrapers","architecture"," Canada",0.00606742909729892
+"223","forests","naturalfeature"," Canada",0.00606672465149174
+"224","rafting","activity"," Canada",0.00606001506297052
+"225","wildlife","naturalfeature"," Canada",0.0060573579135601
+"226","baseball","activity"," Canada",0.00605676467321633
+"227","monuments","landmark"," Canada",0.00605556196501388
+"228","hotsprings","naturalfeature"," Canada",0.00604180249734941
+"229","castle","architecture"," Canada",0.00603275811565653
+"230","trendy","lifestyle"," Canada",0.00602300004344908
+"231","naturalparks","attraction"," Canada",0.00601378870353753
+"232","secluded","landscape"," Canada",0.00600988162560217
+"233","finedining","food"," Canada",0.00600723957922392
+"234","cathedral","architecture"," Canada",0.00600681233549239
+"235","sunnyweather","weather"," Canada",0.00600589147050963
+"236","sledding","activity"," Canada",0.00600356481442189
+"237","countryside","naturalfeature"," Canada",0.00600313276409059
+"238","iceskating","activity"," Canada",0.00600300670454622
+"239","surfing","activity"," Canada",0.00600112553286111
+"240","diving","activity"," Canada",0.00599950662610167
+"241","tropical","weather"," Canada",0.00599828716065549
+"242","windsurfing","activity"," Canada",0.00599809069379001
+"243","waterskiing","activity"," Canada",0.00599570568289191
+"244","friendlypeople","social"," Canada",0.00599269789555929
+"245","ruins","architecture"," Canada",0.00599256860413198
+"246","skydiving","activity"," Canada",0.00598741542644239
+"247","jungle","naturalfeature"," Canada",0.00598120663023795
+"248","running","activity"," Canada",0.00598118807913529
+"249","rockclimbing","activity"," Canada",0.00598028977456737
+"250","snowtubing","activity"," Canada",0.00598012636790714
+"251","excursions","activity"," Canada",0.00597800301422188
+"252","soccer","activity"," Canada",0.00597588280810855
+"253","opera","cultural"," Canada",0.00597094803836328
+"254","seafood","food"," Canada",0.00596914162753993
+"255","basketball","activity"," Canada",0.00596664521893841
+"256","cocktails","food"," Canada",0.00596613266469748
+"257","sunrise","activity"," Canada",0.0059629526175158
+"258","desert","naturalfeature"," Canada",0.00595900998617139
+"259","rowing","activity"," Canada",0.00595675346680445
+"260","birdwatching","activity"," Canada",0.00595413339421742
+"261","sharks","activity"," Canada",0.00595354378782426
+"262","snorkeling","activity"," Canada",0.00595300420794974
+"263","hunting","activity"," Canada",0.00595220375574153
+"264","archaeology","historical"," Canada",0.0059510365370682
+"265","temples","architecture"," Canada",0.00595100585033592
+"266","segwaytours","activity"," Canada",0.00594777866598676
+"267","caveexploring","activity"," Canada",0.0059456835566744
+"268","kitesurfing","activity"," Canada",0.00594496954856555
+"269","safari","activity"," Canada",0.00594467276920785
+"270","northernlights","naturalfeature"," Canada",0.00594430856283685
+"271","volcanoes","naturalfeature"," Canada",0.00594428970519929
+"272","rainforest","naturalfeature"," Canada",0.00594421528215032
+"273","resorts","lodging"," Canada",0.00594355466955036
+"274","horseracing","activity"," Canada",0.00594200088498399
+"275","stargazing","activity"," Canada",0.00594136365965074
+"276","coralreefs","activity"," Canada",0.00594103564227572
+"277","indoorskiing","activity"," Canada",0.00593982214759312
+"278","unescosite","historical"," Canada",0.00593982214759312
+"279","dining","activity"," Italy",0.0126199995334904
+"280","restaurants","social"," Italy",0.0118759883297113
+"281","bars","social"," Italy",0.00914928617510227
+"282","walking","activity"," Italy",0.00842047390224727
+"283","food","food"," Italy",0.00835654130974624
+"284","tours","activity"," Italy",0.00814650840590121
+"285","historical","historical"," Italy",0.00806582342015844
+"286","familyfriendly","social"," Italy",0.00790425832711573
+"287","shopping","shopping"," Italy",0.00788353201013794
+"288","beach","naturalfeature"," Italy",0.00781435592759511
+"289","gardens","attraction"," Italy",0.00776741444977058
+"290","coffee","food"," Italy",0.00724870460112838
+"291","sea","naturalfeature"," Italy",0.00724648808861175
+"292","biking","activity"," Italy",0.00716522141442777
+"293","swimming","activity"," Italy",0.00716267852619923
+"294","business","field"," Italy",0.00715631150666971
+"295","relaxing","lifestyle"," Italy",0.0071172055079069
+"296","spas","activity"," Italy",0.00711495958697876
+"297","museums","cultural"," Italy",0.00710937015916809
+"298","lake","naturalfeature"," Italy",0.00709647412503759
+"299","churches","architecture"," Italy",0.00704210100121273
+"300","boating","activity"," Italy",0.00698227882726243
+"301","urban","urban"," Italy",0.00695025221658388
+"302","art","cultural"," Italy",0.00692030356120875
+"303","sports","activity"," Italy",0.0069132432270762
+"304","islands","naturalfeature"," Italy",0.00677087403727825
+"305","hiking","activity"," Italy",0.00676984338619154
+"306","monuments","landmark"," Italy",0.00676156858742594
+"307","port","transport"," Italy",0.0067519679435777
+"308","budget","lifestyle"," Italy",0.00674382973165979
+"309","luxury","lifestyle"," Italy",0.00673574022099591
+"310","ferry","transport"," Italy",0.00671895221786827
+"311","cafes","social"," Italy",0.00671649661754103
+"312","river","naturalfeature"," Italy",0.00670632424009359
+"313","markets","shopping"," Italy",0.00670473637641936
+"314","cathedral","architecture"," Italy",0.00669548076126919
+"315","mountains","naturalfeature"," Italy",0.00669369213628277
+"316","romantic","lifestyle"," Italy",0.00667076053772415
+"317","scenery","landscape"," Italy",0.00666598404591857
+"318","golf","activity"," Italy",0.00665520574485585
+"319","smalltown","urban"," Italy",0.00664295704012364
+"320","theater","cultural"," Italy",0.00663652051977881
+"321","countryside","naturalfeature"," Italy",0.00663198042330461
+"322","sightseeing","activity"," Italy",0.00662869862299024
+"323","livemusic","cultural"," Italy",0.0066230381408143
+"324","ruins","architecture"," Italy",0.00661815758077935
+"325","sailing","activity"," Italy",0.00659259579586992
+"326","nightclubs","social"," Italy",0.0065869032846145
+"327","castle","architecture"," Italy",0.00656087815784019
+"328","skiing","activity"," Italy",0.00655645667444183
+"329","hilly","landscape"," Italy",0.00655482592877777
+"330","windsurfing","activity"," Italy",0.00655258342570052
+"331","architecture","architecture"," Italy",0.00654713727807053
+"332","diving","activity"," Italy",0.00654117713161586
+"333","adventure","activity"," Italy",0.00653419013496318
+"334","opera","cultural"," Italy",0.00652983747914818
+"335","culture","cultural"," Italy",0.00652737911839694
+"336","archaeology","historical"," Italy",0.0065113316167538
+"337","wineries","attraction"," Italy",0.0064932090972918
+"338","marina","urban"," Italy",0.0064896787500526
+"339","themepark","attraction"," Italy",0.00648526113620583
+"340","temples","architecture"," Italy",0.00648071752097516
+"341","entertainment","cultural"," Italy",0.00648005182121835
+"342","snorkeling","activity"," Italy",0.00647765355931043
+"343","festivals","cultural"," Italy",0.0064704855915461
+"344","musicals","cultural"," Italy",0.00646863427628633
+"345","excursions","activity"," Italy",0.00646747854486173
+"346","horsebackriding","activity"," Italy",0.00645971727244563
+"347","waterskiing","activity"," Italy",0.00645875865918093
+"348","sunnyweather","weather"," Italy",0.00645342877470896
+"349","snowboarding","activity"," Italy",0.0064491476609634
+"350","dancing","activity"," Italy",0.00644440968286135
+"351","fishing","activity"," Italy",0.00644388564313849
+"352","kayaking","activity"," Italy",0.00644273767276858
+"353","volcanoes","naturalfeature"," Italy",0.00644171146855672
+"354","sunsets","activity"," Italy",0.0064409966820389
+"355","secluded","landscape"," Italy",0.00644078499619451
+"356","naturalparks","attraction"," Italy",0.00643955884600723
+"357","conferences","activity"," Italy",0.00643776423005244
+"358","crosscountryskiing","activity"," Italy",0.00643303073006201
+"359","university","landmark"," Italy",0.00643266650920471
+"360","surfing","activity"," Italy",0.00642988001745373
+"361","skydiving","activity"," Italy",0.0064296612678562
+"362","beer","food"," Italy",0.00642720167874007
+"363","football","activity"," Italy",0.00641692291126163
+"364","rafting","activity"," Italy",0.00641661806248076
+"365","trendy","lifestyle"," Italy",0.00641549928190978
+"366","nature","naturalfeature"," Italy",0.0064132782580396
+"367","nightlife","lifestyle"," Italy",0.00641260371900999
+"368","rockclimbing","activity"," Italy",0.00641135731927426
+"369","cocktails","food"," Italy",0.00640600474871772
+"370","seafood","food"," Italy",0.00640424195526425
+"371","rowing","activity"," Italy",0.00640391219948675
+"372","snowshoeing","activity"," Italy",0.00640210827882567
+"373","camping","activity"," Italy",0.00639945062348635
+"374","hotsprings","naturalfeature"," Italy",0.00639775625925752
+"375","sledding","activity"," Italy",0.00639620639177579
+"376","segwaytours","activity"," Italy",0.00639392781983681
+"377","soccer","activity"," Italy",0.00639347523331001
+"378","ecotourism","activity"," Italy",0.00639224434538599
+"379","jazz","cultural"," Italy",0.00639123637633271
+"380","waterfalls","naturalfeature"," Italy",0.00639072493231872
+"381","caveexploring","activity"," Italy",0.00639029468244199
+"382","hunting","activity"," Italy",0.00638994661970146
+"383","aquarium","attraction"," Italy",0.00638870201348271
+"384","horseracing","activity"," Italy",0.00638767039223472
+"385","friendlypeople","social"," Italy",0.00638750617171586
+"386","casino","entertainment"," Italy",0.0063874468401601
+"387","skyscrapers","architecture"," Italy",0.00638743011562127
+"388","tropical","weather"," Italy",0.0063866719464561
+"389","forests","naturalfeature"," Italy",0.00638595471150648
+"390","finedining","food"," Italy",0.00638447395561965
+"391","snowmobileriding","activity"," Italy",0.00638404982145375
+"392","iceskating","activity"," Italy",0.00638386577226261
+"393","whalewatching","activity"," Italy",0.00638340364875899
+"394","glaciers","naturalfeature"," Italy",0.00638309878615747
+"395","resorts","lodging"," Italy",0.00638192584520906
+"396","wildlife","naturalfeature"," Italy",0.00638154835873336
+"397","basketball","activity"," Italy",0.0063814885584759
+"398","sunrise","activity"," Italy",0.00638133799157615
+"399","snowtubing","activity"," Italy",0.00638080260023901
+"400","kitesurfing","activity"," Italy",0.00638062233594943
+"401","waterparks","attraction"," Italy",0.00638000676470432
+"402","safari","activity"," Italy",0.00637947306473397
+"403","running","activity"," Italy",0.00637853956350978
+"404","zoo","attraction"," Italy",0.00637835803813685
+"405","desert","naturalfeature"," Italy",0.00637832135655893
+"406","sharks","activity"," Italy",0.00637822486863508
+"407","baseball","activity"," Italy",0.00637774195229981
+"408","chinatown","tourism"," Italy",0.00637744021863314
+"409","hockey","activity"," Italy",0.00637710562309478
+"410","birdwatching","activity"," Italy",0.00637651831657084
+"411","coralreefs","activity"," Italy",0.00637651831657084
+"412","indoorskiing","activity"," Italy",0.00637651831657084
+"413","jungle","naturalfeature"," Italy",0.00637651831657084
+"414","northernlights","naturalfeature"," Italy",0.00637651831657084
+"415","rainforest","naturalfeature"," Italy",0.00637651831657084
+"416","stargazing","activity"," Italy",0.00637651831657084
+"417","unescosite","historical"," Italy",0.00637651831657084
+"418","dining","activity"," United Kingdom",0.017797187414655
+"419","restaurants","social"," United Kingdom",0.0154933502197
+"420","food","food"," United Kingdom",0.014992425061883
+"421","bars","social"," United Kingdom",0.0134256746989029
+"422","shopping","shopping"," United Kingdom",0.00981607414624458
+"423","familyfriendly","social"," United Kingdom",0.00970156480960309
+"424","walking","activity"," United Kingdom",0.00914190543009009
+"425","business","field"," United Kingdom",0.00898835791828375
+"426","historical","historical"," United Kingdom",0.0087030308772977
+"427","coffee","food"," United Kingdom",0.00822585678419175
+"428","gardens","attraction"," United Kingdom",0.00820159089742605
+"429","sports","activity"," United Kingdom",0.00813782255872346
+"430","spas","activity"," United Kingdom",0.00805523159986992
+"431","tours","activity"," United Kingdom",0.00803680904280193
+"432","budget","lifestyle"," United Kingdom",0.00798985315129868
+"433","museums","cultural"," United Kingdom",0.00779110204038854
+"434","relaxing","lifestyle"," United Kingdom",0.0077858604066985
+"435","theater","cultural"," United Kingdom",0.00775039559935304
+"436","swimming","activity"," United Kingdom",0.0073075351260423
+"437","livemusic","cultural"," United Kingdom",0.00723705942644311
+"438","art","cultural"," United Kingdom",0.00720754351008562
+"439","river","naturalfeature"," United Kingdom",0.00718857811115587
+"440","nightclubs","social"," United Kingdom",0.00701727504633821
+"441","beach","naturalfeature"," United Kingdom",0.00694742268137863
+"442","golf","activity"," United Kingdom",0.00694509214278305
+"443","castle","architecture"," United Kingdom",0.00692653698593588
+"444","sea","naturalfeature"," United Kingdom",0.00691696464869893
+"445","smalltown","urban"," United Kingdom",0.00686498023418893
+"446","luxury","lifestyle"," United Kingdom",0.0067914165873135
+"447","urban","urban"," United Kingdom",0.00679074671483854
+"448","churches","architecture"," United Kingdom",0.0067671134114636
+"449","cafes","social"," United Kingdom",0.00672304724707522
+"450","monuments","landmark"," United Kingdom",0.00668753848656649
+"451","boating","activity"," United Kingdom",0.00662188322082965
+"452","lake","naturalfeature"," United Kingdom",0.0065634138690484
+"453","biking","activity"," United Kingdom",0.00654082152484941
+"454","markets","shopping"," United Kingdom",0.00653100767990382
+"455","culture","cultural"," United Kingdom",0.00652298987404101
+"456","hiking","activity"," United Kingdom",0.00647013519369429
+"457","dancing","activity"," United Kingdom",0.00646685304144079
+"458","university","landmark"," United Kingdom",0.00645547014606896
+"459","festivals","cultural"," United Kingdom",0.00644154647582368
+"460","cathedral","architecture"," United Kingdom",0.0064315169779629
+"461","football","activity"," United Kingdom",0.0064252969865358
+"462","countryside","naturalfeature"," United Kingdom",0.00642442064113941
+"463","romantic","lifestyle"," United Kingdom",0.00641531272946185
+"464","entertainment","cultural"," United Kingdom",0.0064079207572039
+"465","sightseeing","activity"," United Kingdom",0.00638344543985084
+"466","architecture","architecture"," United Kingdom",0.00637084876227012
+"467","port","transport"," United Kingdom",0.00636990334725867
+"468","ferry","transport"," United Kingdom",0.00636131598703716
+"469","islands","naturalfeature"," United Kingdom",0.00635299093318844
+"470","beer","food"," United Kingdom",0.00633228231386557
+"471","musicals","cultural"," United Kingdom",0.00632914934727964
+"472","nature","naturalfeature"," United Kingdom",0.00632826673202616
+"473","conferences","activity"," United Kingdom",0.00632342798925857
+"474","scenery","landscape"," United Kingdom",0.00629454705183518
+"475","nightlife","lifestyle"," United Kingdom",0.00625435065474482
+"476","sailing","activity"," United Kingdom",0.00623219886572009
+"477","skyscrapers","architecture"," United Kingdom",0.00623195315382531
+"478","zoo","attraction"," United Kingdom",0.00621764073005311
+"479","sunnyweather","weather"," United Kingdom",0.00621302702813706
+"480","mountains","naturalfeature"," United Kingdom",0.00619749986333576
+"481","ruins","architecture"," United Kingdom",0.00619583060969297
+"482","wildlife","naturalfeature"," United Kingdom",0.00618865734049672
+"483","opera","cultural"," United Kingdom",0.0061867363100966
+"484","horsebackriding","activity"," United Kingdom",0.00618247690942293
+"485","hilly","landscape"," United Kingdom",0.00617287877912564
+"486","forests","naturalfeature"," United Kingdom",0.00616154230883824
+"487","fishing","activity"," United Kingdom",0.0061611062387168
+"488","jazz","cultural"," United Kingdom",0.006155219264435
+"489","aquarium","attraction"," United Kingdom",0.00615256349014942
+"490","cocktails","food"," United Kingdom",0.0061494727493386
+"491","adventure","activity"," United Kingdom",0.0061445904930346
+"492","hunting","activity"," United Kingdom",0.00613624230844486
+"493","skiing","activity"," United Kingdom",0.00612445399425908
+"494","windsurfing","activity"," United Kingdom",0.00612311011196163
+"495","kayaking","activity"," United Kingdom",0.00612041767061429
+"496","sunsets","activity"," United Kingdom",0.0061180473902506
+"497","themepark","attraction"," United Kingdom",0.00611799458781246
+"498","secluded","landscape"," United Kingdom",0.00611424528038803
+"499","trendy","lifestyle"," United Kingdom",0.00611158953892685
+"500","surfing","activity"," United Kingdom",0.00610981815772385
+"501","ecotourism","activity"," United Kingdom",0.00610841870877294
+"502","whalewatching","activity"," United Kingdom",0.0061074852848664
+"503","camping","activity"," United Kingdom",0.00610742118015613
+"504","sharks","activity"," United Kingdom",0.00610338262021566
+"505","waterskiing","activity"," United Kingdom",0.00610097720600198
+"506","temples","architecture"," United Kingdom",0.00609936121074688
+"507","marina","urban"," United Kingdom",0.0060934725118685
+"508","diving","activity"," United Kingdom",0.00609252901370745
+"509","rowing","activity"," United Kingdom",0.00609124556814989
+"510","tropical","weather"," United Kingdom",0.0060897117908336
+"511","waterfalls","naturalfeature"," United Kingdom",0.00608970754093809
+"512","basketball","activity"," United Kingdom",0.00608918994118874
+"513","naturalparks","attraction"," United Kingdom",0.00608774318401354
+"514","rafting","activity"," United Kingdom",0.00608545515500243
+"515","hockey","activity"," United Kingdom",0.00608258003966253
+"516","safari","activity"," United Kingdom",0.00608019972416745
+"517","rockclimbing","activity"," United Kingdom",0.00607988253813182
+"518","chinatown","tourism"," United Kingdom",0.00607740229568061
+"519","casino","entertainment"," United Kingdom",0.00607627100911041
+"520","finedining","food"," United Kingdom",0.00607499466888653
+"521","friendlypeople","social"," United Kingdom",0.00607418428929987
+"522","skydiving","activity"," United Kingdom",0.00607361837515652
+"523","snowboarding","activity"," United Kingdom",0.0060727921390217
+"524","archaeology","historical"," United Kingdom",0.00607234733894101
+"525","seafood","food"," United Kingdom",0.00607219253007806
+"526","volcanoes","naturalfeature"," United Kingdom",0.00606770115105173
+"527","horseracing","activity"," United Kingdom",0.00606641827915624
+"528","desert","naturalfeature"," United Kingdom",0.0060658061172602
+"529","snorkeling","activity"," United Kingdom",0.00606508405035087
+"530","running","activity"," United Kingdom",0.00606494025141771
+"531","wineries","attraction"," United Kingdom",0.00606368332255131
+"532","excursions","activity"," United Kingdom",0.00606080577403161
+"533","birdwatching","activity"," United Kingdom",0.00606050735586827
+"534","glaciers","naturalfeature"," United Kingdom",0.00605991023575678
+"535","iceskating","activity"," United Kingdom",0.00605963288617807
+"536","sunrise","activity"," United Kingdom",0.00605788932221701
+"537","kitesurfing","activity"," United Kingdom",0.00605707129847743
+"538","crosscountryskiing","activity"," United Kingdom",0.00605698728861016
+"539","segwaytours","activity"," United Kingdom",0.00605569991827961
+"540","jungle","naturalfeature"," United Kingdom",0.00605558424743714
+"541","caveexploring","activity"," United Kingdom",0.00605491996556907
+"542","waterparks","attraction"," United Kingdom",0.00605491443011126
+"543","northernlights","naturalfeature"," United Kingdom",0.00605430629897416
+"544","resorts","lodging"," United Kingdom",0.00605405696116818
+"545","sledding","activity"," United Kingdom",0.00605393386812961
+"546","snowshoeing","activity"," United Kingdom",0.00605389499135165
+"547","snowtubing","activity"," United Kingdom",0.00605335356763251
+"548","soccer","activity"," United Kingdom",0.00605307704396924
+"549","coralreefs","activity"," United Kingdom",0.00605293042057414
+"550","snowmobileriding","activity"," United Kingdom",0.0060523581268614
+"551","baseball","activity"," United Kingdom",0.00605174822077166
+"552","hotsprings","naturalfeature"," United Kingdom",0.00605174822077166
+"553","indoorskiing","activity"," United Kingdom",0.00605174822077166
+"554","rainforest","naturalfeature"," United Kingdom",0.00605174822077166
+"555","stargazing","activity"," United Kingdom",0.00605174822077166
+"556","unescosite","historical"," United Kingdom",0.00605174822077166
+"557","dining","activity"," Germany",0.0107987874655756
+"558","restaurants","social"," Germany",0.0103989102413675
+"559","bars","social"," Germany",0.00862513394565916
+"560","shopping","shopping"," Germany",0.0079899468001889
+"561","food","food"," Germany",0.0079237475736047
+"562","business","field"," Germany",0.00785450137918082
+"563","walking","activity"," Germany",0.0078322287306086
+"564","historical","historical"," Germany",0.0077930895045882
+"565","tours","activity"," Germany",0.00771421838199372
+"566","spas","activity"," Germany",0.0075579351361376
+"567","familyfriendly","social"," Germany",0.00744943975662863
+"568","museums","cultural"," Germany",0.00733478644832026
+"569","sports","activity"," Germany",0.00722131130141209
+"570","biking","activity"," Germany",0.0071682851973491
+"571","gardens","attraction"," Germany",0.00712355317298377
+"572","river","naturalfeature"," Germany",0.00709159477791367
+"573","urban","urban"," Germany",0.00704902099941293
+"574","markets","shopping"," Germany",0.00704710221204174
+"575","coffee","food"," Germany",0.00704706751737675
+"576","castle","architecture"," Germany",0.00693846889453031
+"577","art","cultural"," Germany",0.00693689989507711
+"578","hiking","activity"," Germany",0.00691393889366739
+"579","swimming","activity"," Germany",0.00689622630258323
+"580","churches","architecture"," Germany",0.00687383086814899
+"581","theater","cultural"," Germany",0.00684907032223503
+"582","budget","lifestyle"," Germany",0.00684498042118984
+"583","golf","activity"," Germany",0.00682537229939376
+"584","beer","food"," Germany",0.00680644791732826
+"585","luxury","lifestyle"," Germany",0.00676959839058511
+"586","livemusic","cultural"," Germany",0.00675961937118216
+"587","cathedral","architecture"," Germany",0.00675365612921859
+"588","relaxing","lifestyle"," Germany",0.00675336296132392
+"589","cafes","social"," Germany",0.00675242654773642
+"590","lake","naturalfeature"," Germany",0.00674308011808349
+"591","monuments","landmark"," Germany",0.00672740260780733
+"592","boating","activity"," Germany",0.00671946977939439
+"593","culture","cultural"," Germany",0.00671356480035948
+"594","architecture","architecture"," Germany",0.0066993095450951
+"595","festivals","cultural"," Germany",0.00668014217684658
+"596","sightseeing","activity"," Germany",0.00667555571572605
+"597","smalltown","urban"," Germany",0.00663308155632916
+"598","zoo","attraction"," Germany",0.00663088422796055
+"599","mountains","naturalfeature"," Germany",0.00660918056704176
+"600","islands","naturalfeature"," Germany",0.00660785971684061
+"601","nightclubs","social"," Germany",0.00660646792438427
+"602","forests","naturalfeature"," Germany",0.00659791257879581
+"603","skiing","activity"," Germany",0.00659629322670549
+"604","romantic","lifestyle"," Germany",0.00659603834418389
+"605","opera","cultural"," Germany",0.00659589191408019
+"606","sailing","activity"," Germany",0.00658924202134165
+"607","entertainment","cultural"," Germany",0.00658500087835812
+"608","beach","naturalfeature"," Germany",0.00658192006502998
+"609","football","activity"," Germany",0.00657754831116013
+"610","countryside","naturalfeature"," Germany",0.00657500470481284
+"611","dancing","activity"," Germany",0.00656868154856701
+"612","university","landmark"," Germany",0.00655099660094926
+"613","adventure","activity"," Germany",0.00654859648773926
+"614","scenery","landscape"," Germany",0.00654719025537384
+"615","aquarium","attraction"," Germany",0.00654319194716249
+"616","musicals","cultural"," Germany",0.006542244599317
+"617","port","transport"," Germany",0.00654210999317718
+"618","horsebackriding","activity"," Germany",0.006539896023477
+"619","ruins","architecture"," Germany",0.0065369155761733
+"620","hockey","activity"," Germany",0.00653449003865768
+"621","sea","naturalfeature"," Germany",0.00653415153547173
+"622","camping","activity"," Germany",0.00653217653597365
+"623","nightlife","lifestyle"," Germany",0.00652865285298579
+"624","nature","naturalfeature"," Germany",0.00652573710106019
+"625","trendy","lifestyle"," Germany",0.00651916214201264
+"626","conferences","activity"," Germany",0.00651253857811078
+"627","surfing","activity"," Germany",0.00651219689124774
+"628","casino","entertainment"," Germany",0.00651012466635728
+"629","hilly","landscape"," Germany",0.00650946770214058
+"630","segwaytours","activity"," Germany",0.00650943298042746
+"631","crosscountryskiing","activity"," Germany",0.00650606844350812
+"632","windsurfing","activity"," Germany",0.00650578051575435
+"633","skyscrapers","architecture"," Germany",0.00650351492442201
+"634","wineries","attraction"," Germany",0.00650247001846312
+"635","excursions","activity"," Germany",0.00649788919240907
+"636","waterskiing","activity"," Germany",0.00649633687430919
+"637","archaeology","historical"," Germany",0.00649612397197735
+"638","basketball","activity"," Germany",0.00649504174410263
+"639","diving","activity"," Germany",0.00649391151412457
+"640","temples","architecture"," Germany",0.00649294793452855
+"641","themepark","attraction"," Germany",0.00649262457995111
+"642","snowboarding","activity"," Germany",0.00649134907495294
+"643","secluded","landscape"," Germany",0.00648851608447565
+"644","skydiving","activity"," Germany",0.00648510908109927
+"645","snowshoeing","activity"," Germany",0.00648334105395153
+"646","kayaking","activity"," Germany",0.00648316157962513
+"647","soccer","activity"," Germany",0.00648169719519444
+"648","tropical","weather"," Germany",0.00648050697583273
+"649","naturalparks","attraction"," Germany",0.00647888732491874
+"650","fishing","activity"," Germany",0.00647744615560474
+"651","rowing","activity"," Germany",0.00647717025737964
+"652","hunting","activity"," Germany",0.00647665521585466
+"653","cocktails","food"," Germany",0.00647648993113177
+"654","iceskating","activity"," Germany",0.00647554039983094
+"655","sunnyweather","weather"," Germany",0.00647280234746293
+"656","sledding","activity"," Germany",0.00647230986017765
+"657","finedining","food"," Germany",0.00647210662233109
+"658","waterfalls","naturalfeature"," Germany",0.00647116435476956
+"659","hotsprings","naturalfeature"," Germany",0.00647087742053873
+"660","jazz","cultural"," Germany",0.00646872658426195
+"661","ferry","transport"," Germany",0.00646715981051372
+"662","wildlife","naturalfeature"," Germany",0.00646592080314592
+"663","rafting","activity"," Germany",0.00646579822389535
+"664","snorkeling","activity"," Germany",0.00646433179326775
+"665","sunsets","activity"," Germany",0.0064624332076819
+"666","rockclimbing","activity"," Germany",0.00646121508644171
+"667","marina","urban"," Germany",0.00645993541575575
+"668","ecotourism","activity"," Germany",0.00645938618159409
+"669","glaciers","naturalfeature"," Germany",0.00645905393424612
+"670","jungle","naturalfeature"," Germany",0.00645537845326413
+"671","seafood","food"," Germany",0.00645510617200865
+"672","running","activity"," Germany",0.00645501642274757
+"673","volcanoes","naturalfeature"," Germany",0.00645499567004811
+"674","sunrise","activity"," Germany",0.00645412723422041
+"675","snowtubing","activity"," Germany",0.00645362568727341
+"676","snowmobileriding","activity"," Germany",0.00645339242504449
+"677","friendlypeople","social"," Germany",0.00645320005177365
+"678","caveexploring","activity"," Germany",0.00645297941286716
+"679","waterparks","attraction"," Germany",0.00645231850119863
+"680","desert","naturalfeature"," Germany",0.00645227492957568
+"681","safari","activity"," Germany",0.00645224655017937
+"682","resorts","lodging"," Germany",0.00645075140535235
+"683","whalewatching","activity"," Germany",0.00645017470204107
+"684","horseracing","activity"," Germany",0.00644981196942751
+"685","baseball","activity"," Germany",0.00644977056843195
+"686","sharks","activity"," Germany",0.00644976075060775
+"687","indoorskiing","activity"," Germany",0.00644949306733932
+"688","birdwatching","activity"," Germany",0.00644941475867659
+"689","chinatown","tourism"," Germany",0.00644941475867659
+"690","coralreefs","activity"," Germany",0.00644941475867659
+"691","kitesurfing","activity"," Germany",0.00644941475867659
+"692","northernlights","naturalfeature"," Germany",0.00644941475867659
+"693","rainforest","naturalfeature"," Germany",0.00644941475867659
+"694","stargazing","activity"," Germany",0.00644941475867659
+"695","unescosite","historical"," Germany",0.00644941475867659
+"696","dining","activity"," France",0.0121816160048042
+"697","restaurants","social"," France",0.0116885802750766
+"698","bars","social"," France",0.00844718284712539
+"699","shopping","shopping"," France",0.00824390969303395
+"700","food","food"," France",0.00816429634539732
+"701","familyfriendly","social"," France",0.00794048211590921
+"702","walking","activity"," France",0.00793971705641763
+"703","historical","historical"," France",0.00779202977583639
+"704","tours","activity"," France",0.00777526797480948
+"705","gardens","attraction"," France",0.00748666639295612
+"706","beach","naturalfeature"," France",0.00733221610760248
+"707","museums","cultural"," France",0.00719227542260406
+"708","swimming","activity"," France",0.00718321299946131
+"709","coffee","food"," France",0.00717102061500839
+"710","business","field"," France",0.00715669067570192
+"711","budget","lifestyle"," France",0.00710804205237388
+"712","themepark","attraction"," France",0.00703911412867677
+"713","biking","activity"," France",0.00701332438777015
+"714","spas","activity"," France",0.00701195973384232
+"715","urban","urban"," France",0.00698076272061598
+"716","river","naturalfeature"," France",0.00697722753664654
+"717","cafes","social"," France",0.00697478542300206
+"718","churches","architecture"," France",0.00694234651245715
+"719","sports","activity"," France",0.00687608675466159
+"720","art","cultural"," France",0.00687505408311282
+"721","markets","shopping"," France",0.00682126992394652
+"722","monuments","landmark"," France",0.0068120148277427
+"723","golf","activity"," France",0.00681084090773853
+"724","sea","naturalfeature"," France",0.00680061920796025
+"725","relaxing","lifestyle"," France",0.00678490372948049
+"726","port","transport"," France",0.00676683735374038
+"727","hiking","activity"," France",0.00676538731940114
+"728","cathedral","architecture"," France",0.00675138865457714
+"729","theater","cultural"," France",0.00673571804553439
+"730","smalltown","urban"," France",0.00673034223603983
+"731","skiing","activity"," France",0.00672353460669071
+"732","architecture","architecture"," France",0.00671436327444575
+"733","boating","activity"," France",0.0066896927931322
+"734","luxury","lifestyle"," France",0.00665407516975591
+"735","romantic","lifestyle"," France",0.00664812018790475
+"736","opera","cultural"," France",0.00664801580418858
+"737","islands","naturalfeature"," France",0.00663704751068326
+"738","livemusic","cultural"," France",0.00663431564291023
+"739","castle","architecture"," France",0.00663173042495413
+"740","lake","naturalfeature"," France",0.00660590007851807
+"741","mountains","naturalfeature"," France",0.00660019927488613
+"742","dancing","activity"," France",0.00659358811990291
+"743","festivals","cultural"," France",0.00659355546058358
+"744","entertainment","cultural"," France",0.00659249040798575
+"745","ferry","transport"," France",0.00659031349866859
+"746","sightseeing","activity"," France",0.00658900134771099
+"747","culture","cultural"," France",0.00654941372210931
+"748","scenery","landscape"," France",0.00654876014195642
+"749","nightclubs","social"," France",0.00654812555255338
+"750","countryside","naturalfeature"," France",0.00654466686273583
+"751","adventure","activity"," France",0.00654447611109765
+"752","sailing","activity"," France",0.00654090782880072
+"753","wineries","attraction"," France",0.00653811535697726
+"754","sunnyweather","weather"," France",0.00651485745600886
+"755","windsurfing","activity"," France",0.00651472691537962
+"756","kayaking","activity"," France",0.00651440675763589
+"757","sunsets","activity"," France",0.00649623835733174
+"758","ruins","architecture"," France",0.00649579267654352
+"759","diving","activity"," France",0.00649471749250367
+"760","waterskiing","activity"," France",0.00649468588951376
+"761","nature","naturalfeature"," France",0.00648655768360111
+"762","musicals","cultural"," France",0.00648518525883497
+"763","snowboarding","activity"," France",0.00648331034277055
+"764","crosscountryskiing","activity"," France",0.006476483147655
+"765","snorkeling","activity"," France",0.00647465076361225
+"766","jazz","cultural"," France",0.00647248222170329
+"767","skydiving","activity"," France",0.00647208730894696
+"768","surfing","activity"," France",0.00647151442192295
+"769","snowshoeing","activity"," France",0.00646958356238216
+"770","casino","entertainment"," France",0.00646868091626935
+"771","zoo","attraction"," France",0.00646759944430861
+"772","fishing","activity"," France",0.00646481175058615
+"773","football","activity"," France",0.00646460651344768
+"774","waterfalls","naturalfeature"," France",0.00646225215835996
+"775","skyscrapers","architecture"," France",0.00646115313984363
+"776","camping","activity"," France",0.00646050520729036
+"777","horsebackriding","activity"," France",0.00646009356461605
+"778","rafting","activity"," France",0.0064591373372895
+"779","forests","naturalfeature"," France",0.00645821949280282
+"780","hilly","landscape"," France",0.00645728698570875
+"781","marina","urban"," France",0.00645434737946099
+"782","nightlife","lifestyle"," France",0.00645236432859494
+"783","university","landmark"," France",0.0064490676881351
+"784","temples","architecture"," France",0.00644716325418719
+"785","snowmobileriding","activity"," France",0.00644709103932197
+"786","naturalparks","attraction"," France",0.00644668158713927
+"787","trendy","lifestyle"," France",0.00644654885488873
+"788","finedining","food"," France",0.00644424092932409
+"789","beer","food"," France",0.00644364958836121
+"790","segwaytours","activity"," France",0.00644236537472344
+"791","conferences","activity"," France",0.00644199863514038
+"792","excursions","activity"," France",0.00643947351978678
+"793","rowing","activity"," France",0.00643933836536304
+"794","glaciers","naturalfeature"," France",0.00643910642894504
+"795","tropical","weather"," France",0.00643806755426002
+"796","rockclimbing","activity"," France",0.00643798140638698
+"797","archaeology","historical"," France",0.00643646616880948
+"798","ecotourism","activity"," France",0.00643528066982728
+"799","sledding","activity"," France",0.00643518277227197
+"800","soccer","activity"," France",0.00643277127798822
+"801","cocktails","food"," France",0.00643222397791629
+"802","secluded","landscape"," France",0.00643214432850203
+"803","seafood","food"," France",0.0064305628703561
+"804","volcanoes","naturalfeature"," France",0.00642992046322615
+"805","friendlypeople","social"," France",0.00642838298465028
+"806","aquarium","attraction"," France",0.00642751761407927
+"807","hunting","activity"," France",0.00642698662003407
+"808","wildlife","naturalfeature"," France",0.00642296022995706
+"809","waterparks","attraction"," France",0.00642240420948199
+"810","caveexploring","activity"," France",0.00642182451695822
+"811","running","activity"," France",0.00642136003157189
+"812","desert","naturalfeature"," France",0.00642126915282561
+"813","baseball","activity"," France",0.00642117374875362
+"814","hotsprings","naturalfeature"," France",0.00642108440573992
+"815","horseracing","activity"," France",0.00642085781025309
+"816","hockey","activity"," France",0.00642066897105819
+"817","kitesurfing","activity"," France",0.00642019622311588
+"818","iceskating","activity"," France",0.00641968339897136
+"819","unescosite","historical"," France",0.00641940666118384
+"820","jungle","naturalfeature"," France",0.00641915295307771
+"821","whalewatching","activity"," France",0.00641913066290459
+"822","safari","activity"," France",0.00641911506131228
+"823","snowtubing","activity"," France",0.00641901836189432
+"824","resorts","lodging"," France",0.00641862847724344
+"825","chinatown","tourism"," France",0.00641850239933607
+"826","sunrise","activity"," France",0.00641841000314031
+"827","sharks","activity"," France",0.00641829790260111
+"828","coralreefs","activity"," France",0.00641823126388149
+"829","rainforest","naturalfeature"," France",0.00641742413164739
+"830","basketball","activity"," France",0.00641734921180355
+"831","birdwatching","activity"," France",0.00641734921180355
+"832","indoorskiing","activity"," France",0.00641734921180355
+"833","northernlights","naturalfeature"," France",0.00641734921180355
+"834","stargazing","activity"," France",0.00641734921180355
+"835","dining","activity"," Spain",0.0128392392303289
+"836","restaurants","social"," Spain",0.0121283171516171
+"837","bars","social"," Spain",0.0105302433123392
+"838","beach","naturalfeature"," Spain",0.0101391763314625
+"839","food","food"," Spain",0.00945894393784069
+"840","walking","activity"," Spain",0.00859964188864536
+"841","shopping","shopping"," Spain",0.00855613797387261
+"842","tours","activity"," Spain",0.00803228721692755
+"843","historical","historical"," Spain",0.0080022290674645
+"844","familyfriendly","social"," Spain",0.00783635218581371
+"845","sea","naturalfeature"," Spain",0.00764676444599608
+"846","swimming","activity"," Spain",0.00760123195139575
+"847","relaxing","lifestyle"," Spain",0.00747618945924318
+"848","spas","activity"," Spain",0.00737695993589863
+"849","gardens","attraction"," Spain",0.00728478471269589
+"850","coffee","food"," Spain",0.00721570628430921
+"851","sports","activity"," Spain",0.0072088187268727
+"852","museums","cultural"," Spain",0.00719291569883952
+"853","business","field"," Spain",0.00717520065033531
+"854","port","transport"," Spain",0.00711428357131997
+"855","biking","activity"," Spain",0.00706568286953797
+"856","cathedral","architecture"," Spain",0.00705526794093954
+"857","urban","urban"," Spain",0.00694561350822478
+"858","art","cultural"," Spain",0.00690997946632035
+"859","cafes","social"," Spain",0.00690175434319617
+"860","entertainment","cultural"," Spain",0.00681467138989159
+"861","budget","lifestyle"," Spain",0.006813399397843
+"862","golf","activity"," Spain",0.00679416595194722
+"863","churches","architecture"," Spain",0.0067761713787268
+"864","livemusic","cultural"," Spain",0.00677012901460669
+"865","boating","activity"," Spain",0.00675735164997791
+"866","markets","shopping"," Spain",0.00671256312974675
+"867","architecture","architecture"," Spain",0.00668927403124584
+"868","mountains","naturalfeature"," Spain",0.00668428382069564
+"869","marina","urban"," Spain",0.00667258934258423
+"870","nightclubs","social"," Spain",0.00664583484528547
+"871","hiking","activity"," Spain",0.00663826837762112
+"872","luxury","lifestyle"," Spain",0.00662590118441915
+"873","theater","cultural"," Spain",0.00660771875786041
+"874","river","naturalfeature"," Spain",0.00660166821001611
+"875","islands","naturalfeature"," Spain",0.00658813860144389
+"876","sailing","activity"," Spain",0.00657513679751945
+"877","dancing","activity"," Spain",0.00657383332620444
+"878","diving","activity"," Spain",0.00656364576253328
+"879","monuments","landmark"," Spain",0.0065573840251769
+"880","scenery","landscape"," Spain",0.00655730820086739
+"881","sightseeing","activity"," Spain",0.00655056015960679
+"882","festivals","cultural"," Spain",0.00653665533693779
+"883","culture","cultural"," Spain",0.00653602694301432
+"884","resorts","lodging"," Spain",0.00653217262854425
+"885","smalltown","urban"," Spain",0.00653042298940365
+"886","windsurfing","activity"," Spain",0.00651286898216562
+"887","castle","architecture"," Spain",0.00650016092005101
+"888","nightlife","lifestyle"," Spain",0.00649398578992393
+"889","adventure","activity"," Spain",0.00648453916660083
+"890","ferry","transport"," Spain",0.00647309367841892
+"891","romantic","lifestyle"," Spain",0.00647093968499601
+"892","ruins","architecture"," Spain",0.00646112282970614
+"893","nature","naturalfeature"," Spain",0.00645397797383741
+"894","surfing","activity"," Spain",0.00645331109856675
+"895","snorkeling","activity"," Spain",0.00644882395112049
+"896","countryside","naturalfeature"," Spain",0.00643736991129693
+"897","kayaking","activity"," Spain",0.00642292435794206
+"898","football","activity"," Spain",0.00642262793427055
+"899","waterskiing","activity"," Spain",0.00641798552847406
+"900","archaeology","historical"," Spain",0.00641789204543027
+"901","themepark","attraction"," Spain",0.00641281580783161
+"902","camping","activity"," Spain",0.00640614566463081
+"903","horsebackriding","activity"," Spain",0.00639554396912804
+"904","skydiving","activity"," Spain",0.0063937439694904
+"905","secluded","landscape"," Spain",0.00638991292282666
+"906","skiing","activity"," Spain",0.00638932115055404
+"907","opera","cultural"," Spain",0.00638207356552363
+"908","waterparks","attraction"," Spain",0.00637826152655932
+"909","lake","naturalfeature"," Spain",0.00637608080024571
+"910","wineries","attraction"," Spain",0.00637394704983228
+"911","desert","naturalfeature"," Spain",0.00637031028573211
+"912","sunsets","activity"," Spain",0.00636364647499919
+"913","fishing","activity"," Spain",0.00635741209631703
+"914","trendy","lifestyle"," Spain",0.00635730733294899
+"915","cocktails","food"," Spain",0.00635707096473443
+"916","casino","entertainment"," Spain",0.00635656566596177
+"917","skyscrapers","architecture"," Spain",0.00635581022391871
+"918","beer","food"," Spain",0.00635334156789109
+"919","jazz","cultural"," Spain",0.0063512550029159
+"920","zoo","attraction"," Spain",0.0063510326778871
+"921","temples","architecture"," Spain",0.00635057903687184
+"922","university","landmark"," Spain",0.00635023772028477
+"923","conferences","activity"," Spain",0.00634990306502742
+"924","sunnyweather","weather"," Spain",0.00634956089258083
+"925","hilly","landscape"," Spain",0.00634864095682059
+"926","musicals","cultural"," Spain",0.00634797294842731
+"927","excursions","activity"," Spain",0.00634765452863438
+"928","rockclimbing","activity"," Spain",0.00634598748311556
+"929","naturalparks","attraction"," Spain",0.00634243738903225
+"930","segwaytours","activity"," Spain",0.0063376504108711
+"931","volcanoes","naturalfeature"," Spain",0.00633583538715467
+"932","seafood","food"," Spain",0.00633581917813782
+"933","rafting","activity"," Spain",0.00633420349049345
+"934","aquarium","attraction"," Spain",0.00633196518378782
+"935","waterfalls","naturalfeature"," Spain",0.00633096130400027
+"936","forests","naturalfeature"," Spain",0.00632980569602311
+"937","ecotourism","activity"," Spain",0.00632736646739871
+"938","snowboarding","activity"," Spain",0.0063260128977609
+"939","tropical","weather"," Spain",0.00632233787406558
+"940","whalewatching","activity"," Spain",0.0063214706281873
+"941","finedining","food"," Spain",0.00632140302009368
+"942","birdwatching","activity"," Spain",0.00631976159555423
+"943","crosscountryskiing","activity"," Spain",0.0063187321204506
+"944","snowshoeing","activity"," Spain",0.00631870817833716
+"945","soccer","activity"," Spain",0.00631770874283784
+"946","snowmobileriding","activity"," Spain",0.0063157599217945
+"947","sunrise","activity"," Spain",0.00631443351479801
+"948","basketball","activity"," Spain",0.00631416094207703
+"949","jungle","naturalfeature"," Spain",0.00631388990582792
+"950","sharks","activity"," Spain",0.00631367021031807
+"951","safari","activity"," Spain",0.00631307630952096
+"952","friendlypeople","social"," Spain",0.00631291472048516
+"953","kitesurfing","activity"," Spain",0.00631280066827216
+"954","wildlife","naturalfeature"," Spain",0.00631193654000595
+"955","caveexploring","activity"," Spain",0.00631172091105023
+"956","running","activity"," Spain",0.00631115478726624
+"957","hotsprings","naturalfeature"," Spain",0.00631062951631153
+"958","rowing","activity"," Spain",0.00631040698542154
+"959","hunting","activity"," Spain",0.0063097705220339
+"960","sledding","activity"," Spain",0.0063083494791644
+"961","rainforest","naturalfeature"," Spain",0.0063080367687326
+"962","glaciers","naturalfeature"," Spain",0.00630726370451625
+"963","stargazing","activity"," Spain",0.00630703292799869
+"964","chinatown","tourism"," Spain",0.00630629415780346
+"965","snowtubing","activity"," Spain",0.00630625106123312
+"966","iceskating","activity"," Spain",0.00630589209678501
+"967","hockey","activity"," Spain",0.00630578509334996
+"968","baseball","activity"," Spain",0.00630575203899869
+"969","coralreefs","activity"," Spain",0.00630575203899869
+"970","horseracing","activity"," Spain",0.00630575203899869
+"971","indoorskiing","activity"," Spain",0.00630575203899869
+"972","northernlights","naturalfeature"," Spain",0.00630575203899869
+"973","unescosite","historical"," Spain",0.00630575203899869
+"974","food","food"," Mexico",0.020279897047558
+"975","dining","activity"," Mexico",0.0196986187235749
+"976","beach","naturalfeature"," Mexico",0.0192695080870251
+"977","restaurants","social"," Mexico",0.0173727204092593
+"978","bars","social"," Mexico",0.0110053652085393
+"979","sea","naturalfeature"," Mexico",0.010112287916519
+"980","familyfriendly","social"," Mexico",0.00950434820467713
+"981","relaxing","lifestyle"," Mexico",0.00909557477751293
+"982","resorts","lodging"," Mexico",0.00902072465534738
+"983","swimming","activity"," Mexico",0.00892187808244198
+"984","walking","activity"," Mexico",0.00835305595454862
+"985","shopping","shopping"," Mexico",0.00813743445988911
+"986","tours","activity"," Mexico",0.00787750443772623
+"987","historical","historical"," Mexico",0.00784886903556507
+"988","sports","activity"," Mexico",0.00778084720942162
+"989","business","field"," Mexico",0.00775777573523777
+"990","entertainment","cultural"," Mexico",0.00774624663187504
+"991","spas","activity"," Mexico",0.00761714849680823
+"992","snorkeling","activity"," Mexico",0.00720928790668435
+"993","gardens","attraction"," Mexico",0.00697220230347721
+"994","coffee","food"," Mexico",0.00695372331143147
+"995","livemusic","cultural"," Mexico",0.00694905533592181
+"996","boating","activity"," Mexico",0.00690794782953327
+"997","nightclubs","social"," Mexico",0.00679673516777535
+"998","golf","activity"," Mexico",0.00678867138515989
+"999","marina","urban"," Mexico",0.00677306984804423
+"1000","diving","activity"," Mexico",0.00673109559552059
+"1001","budget","lifestyle"," Mexico",0.00670159551185209
+"1002","luxury","lifestyle"," Mexico",0.00666712815745208
+"1003","dancing","activity"," Mexico",0.0066051664690597
+"1004","art","cultural"," Mexico",0.00652395114036246
+"1005","museums","cultural"," Mexico",0.0065076510279007
+"1006","romantic","lifestyle"," Mexico",0.00647008354717001
+"1007","fishing","activity"," Mexico",0.00645714598083706
+"1008","adventure","activity"," Mexico",0.0064431766665727
+"1009","islands","naturalfeature"," Mexico",0.00643403074190031
+"1010","biking","activity"," Mexico",0.0064122476935426
+"1011","sunsets","activity"," Mexico",0.00640376057133179
+"1012","excursions","activity"," Mexico",0.00639299904418779
+"1013","culture","cultural"," Mexico",0.00637191321993932
+"1014","urban","urban"," Mexico",0.006367985322896
+"1015","ruins","architecture"," Mexico",0.00634932481397656
+"1016","whalewatching","activity"," Mexico",0.00631235869125546
+"1017","surfing","activity"," Mexico",0.00630821405300505
+"1018","tropical","weather"," Mexico",0.00630400669768942
+"1019","markets","shopping"," Mexico",0.00630228137529864
+"1020","jungle","naturalfeature"," Mexico",0.00629273876477714
+"1021","beer","food"," Mexico",0.00629116793057637
+"1022","nature","naturalfeature"," Mexico",0.00627157325466459
+"1023","kayaking","activity"," Mexico",0.00625662667756184
+"1024","churches","architecture"," Mexico",0.00622792538885981
+"1025","nightlife","lifestyle"," Mexico",0.00622391398914525
+"1026","mountains","naturalfeature"," Mexico",0.00621474941776847
+"1027","theater","cultural"," Mexico",0.00621385443063732
+"1028","hiking","activity"," Mexico",0.00621217662469522
+"1029","sailing","activity"," Mexico",0.00620859282082876
+"1030","smalltown","urban"," Mexico",0.00620354637166685
+"1031","seafood","food"," Mexico",0.0061905402779025
+"1032","secluded","landscape"," Mexico",0.00617333946487906
+"1033","cafes","social"," Mexico",0.0061709809210934
+"1034","monuments","landmark"," Mexico",0.00616754758351469
+"1035","scenery","landscape"," Mexico",0.00613902150502912
+"1036","architecture","architecture"," Mexico",0.00613423656650117
+"1037","cathedral","architecture"," Mexico",0.00612527190518365
+"1038","skydiving","activity"," Mexico",0.00612463919448241
+"1039","ferry","transport"," Mexico",0.00612249431304428
+"1040","windsurfing","activity"," Mexico",0.00608339795511863
+"1041","river","naturalfeature"," Mexico",0.00607968756154137
+"1042","horsebackriding","activity"," Mexico",0.00607599891340644
+"1043","finedining","food"," Mexico",0.00606819591128681
+"1044","port","transport"," Mexico",0.00605783100949731
+"1045","lake","naturalfeature"," Mexico",0.0060547048818417
+"1046","waterskiing","activity"," Mexico",0.00603943071717669
+"1047","wildlife","naturalfeature"," Mexico",0.00603930025298617
+"1048","waterparks","attraction"," Mexico",0.00603210698607679
+"1049","themepark","attraction"," Mexico",0.00603163772017666
+"1050","cocktails","food"," Mexico",0.00602481954325022
+"1051","zoo","attraction"," Mexico",0.00602109921376069
+"1052","university","landmark"," Mexico",0.00601908143182565
+"1053","temples","architecture"," Mexico",0.0060074314453771
+"1054","archaeology","historical"," Mexico",0.00600619163083717
+"1055","waterfalls","naturalfeature"," Mexico",0.00600506160375004
+"1056","friendlypeople","social"," Mexico",0.00600107320739652
+"1057","forests","naturalfeature"," Mexico",0.00599373993600657
+"1058","festivals","cultural"," Mexico",0.00598584373620138
+"1059","sightseeing","activity"," Mexico",0.00598213151257702
+"1060","coralreefs","activity"," Mexico",0.00597933246585121
+"1061","sunnyweather","weather"," Mexico",0.00597721885879226
+"1062","desert","naturalfeature"," Mexico",0.00597541090941641
+"1063","sunrise","activity"," Mexico",0.00597195114120392
+"1064","aquarium","attraction"," Mexico",0.00596575528343964
+"1065","sharks","activity"," Mexico",0.00596426967059922
+"1066","soccer","activity"," Mexico",0.0059626795588363
+"1067","camping","activity"," Mexico",0.00596255181417728
+"1068","hilly","landscape"," Mexico",0.00596120309445188
+"1069","casino","entertainment"," Mexico",0.00595914353965169
+"1070","trendy","lifestyle"," Mexico",0.00595843311601289
+"1071","conferences","activity"," Mexico",0.00595277296983111
+"1072","volcanoes","naturalfeature"," Mexico",0.00595093761471499
+"1073","football","activity"," Mexico",0.00594811082712336
+"1074","ecotourism","activity"," Mexico",0.00594659734224038
+"1075","castle","architecture"," Mexico",0.00594355894214892
+"1076","jazz","cultural"," Mexico",0.00593108819685944
+"1077","basketball","activity"," Mexico",0.00592686963876845
+"1078","countryside","naturalfeature"," Mexico",0.00592531683716054
+"1079","kitesurfing","activity"," Mexico",0.00592245721004826
+"1080","birdwatching","activity"," Mexico",0.00592028651502297
+"1081","skyscrapers","architecture"," Mexico",0.00591810074804511
+"1082","rafting","activity"," Mexico",0.00591774442573753
+"1083","baseball","activity"," Mexico",0.00591698892265695
+"1084","safari","activity"," Mexico",0.00591685241397999
+"1085","rockclimbing","activity"," Mexico",0.00591428386667278
+"1086","naturalparks","attraction"," Mexico",0.00591371211421201
+"1087","musicals","cultural"," Mexico",0.00590938957205057
+"1088","wineries","attraction"," Mexico",0.00590809551975376
+"1089","segwaytours","activity"," Mexico",0.00590624874819295
+"1090","rowing","activity"," Mexico",0.00590516111722071
+"1091","skiing","activity"," Mexico",0.00590313336555285
+"1092","running","activity"," Mexico",0.00589928211303192
+"1093","hotsprings","naturalfeature"," Mexico",0.00589347234856757
+"1094","caveexploring","activity"," Mexico",0.00589240620541571
+"1095","rainforest","naturalfeature"," Mexico",0.00589135630803279
+"1096","iceskating","activity"," Mexico",0.0058911998424647
+"1097","hunting","activity"," Mexico",0.00588945914169529
+"1098","hockey","activity"," Mexico",0.00588924201710414
+"1099","opera","cultural"," Mexico",0.00588770557872805
+"1100","glaciers","naturalfeature"," Mexico",0.00588681537898526
+"1101","snowshoeing","activity"," Mexico",0.00588654524881106
+"1102","chinatown","tourism"," Mexico",0.00588633307785223
+"1103","snowtubing","activity"," Mexico",0.00588601506051915
+"1104","stargazing","activity"," Mexico",0.0058857601423433
+"1105","crosscountryskiing","activity"," Mexico",0.00588555169613334
+"1106","horseracing","activity"," Mexico",0.00588555169613334
+"1107","indoorskiing","activity"," Mexico",0.00588555169613334
+"1108","northernlights","naturalfeature"," Mexico",0.00588555169613334
+"1109","sledding","activity"," Mexico",0.00588555169613334
+"1110","snowboarding","activity"," Mexico",0.00588555169613334
+"1111","snowmobileriding","activity"," Mexico",0.00588555169613334
+"1112","unescosite","historical"," Mexico",0.00588555169613334
+"1113","dining","activity"," Australia",0.0156993814671825
+"1114","restaurants","social"," Australia",0.0142648459828467
+"1115","beach","naturalfeature"," Australia",0.0111509650257251
+"1116","shopping","shopping"," Australia",0.0108227366993102
+"1117","food","food"," Australia",0.0101318078428778
+"1118","walking","activity"," Australia",0.00957854741438303
+"1119","familyfriendly","social"," Australia",0.00915964269556092
+"1120","bars","social"," Australia",0.00911639221416002
+"1121","port","transport"," Australia",0.00869657081181753
+"1122","relaxing","lifestyle"," Australia",0.00823417316411532
+"1123","spas","activity"," Australia",0.00795004522513179
+"1124","sea","naturalfeature"," Australia",0.00787145371270007
+"1125","swimming","activity"," Australia",0.00783023105358415
+"1126","business","field"," Australia",0.0077954984287997
+"1127","tours","activity"," Australia",0.00777437077640081
+"1128","sports","activity"," Australia",0.00773008770000522
+"1129","budget","lifestyle"," Australia",0.00766546645193864
+"1130","gardens","attraction"," Australia",0.00761339125618317
+"1131","cafes","social"," Australia",0.00750771961956156
+"1132","coffee","food"," Australia",0.00730124859678135
+"1133","markets","shopping"," Australia",0.00698262341196671
+"1134","river","naturalfeature"," Australia",0.00696909855763346
+"1135","historical","historical"," Australia",0.00692261248038
+"1136","luxury","lifestyle"," Australia",0.00685083109521913
+"1137","ferry","transport"," Australia",0.00682950983509776
+"1138","golf","activity"," Australia",0.00682522045178345
+"1139","islands","naturalfeature"," Australia",0.00681317384190342
+"1140","museums","cultural"," Australia",0.00676883036771165
+"1141","biking","activity"," Australia",0.00676350909191376
+"1142","opera","cultural"," Australia",0.00676014121807162
+"1143","boating","activity"," Australia",0.00674734475837635
+"1144","art","cultural"," Australia",0.00673622950987074
+"1145","nightclubs","social"," Australia",0.00670405535238735
+"1146","livemusic","cultural"," Australia",0.0066494739984723
+"1147","theater","cultural"," Australia",0.00664418885759207
+"1148","urban","urban"," Australia",0.00662759766355293
+"1149","hiking","activity"," Australia",0.00662086391033723
+"1150","entertainment","cultural"," Australia",0.0066031746051263
+"1151","chinatown","tourism"," Australia",0.00658083388484536
+"1152","nature","naturalfeature"," Australia",0.00656662922538755
+"1153","surfing","activity"," Australia",0.00656563051084677
+"1154","mountains","naturalfeature"," Australia",0.00653618816548144
+"1155","casino","entertainment"," Australia",0.00652287545002753
+"1156","lake","naturalfeature"," Australia",0.00646661285212296
+"1157","marina","urban"," Australia",0.00644180218647477
+"1158","diving","activity"," Australia",0.00643183912211653
+"1159","conferences","activity"," Australia",0.00642899543063289
+"1160","adventure","activity"," Australia",0.00642763749648022
+"1161","wineries","attraction"," Australia",0.00641431544023749
+"1162","romantic","lifestyle"," Australia",0.0064113331098152
+"1163","snorkeling","activity"," Australia",0.00640509640518561
+"1164","scenery","landscape"," Australia",0.00639807812581183
+"1165","jungle","naturalfeature"," Australia",0.00639663596277522
+"1166","culture","cultural"," Australia",0.00639434524525349
+"1167","sunsets","activity"," Australia",0.00639226745019482
+"1168","sailing","activity"," Australia",0.00638690301953663
+"1169","kayaking","activity"," Australia",0.00637513713730253
+"1170","wildlife","naturalfeature"," Australia",0.00637202922082854
+"1171","tropical","weather"," Australia",0.00637000244730355
+"1172","whalewatching","activity"," Australia",0.00635585324515041
+"1173","camping","activity"," Australia",0.00634584146724051
+"1174","desert","naturalfeature"," Australia",0.00632183247363749
+"1175","hilly","landscape"," Australia",0.00630589400244608
+"1176","dancing","activity"," Australia",0.006304439169254
+"1177","forests","naturalfeature"," Australia",0.00630399587750976
+"1178","waterfalls","naturalfeature"," Australia",0.00630053245985758
+"1179","smalltown","urban"," Australia",0.00629763115734841
+"1180","themepark","attraction"," Australia",0.00629623005750942
+"1181","fishing","activity"," Australia",0.00629142256117885
+"1182","sunrise","activity"," Australia",0.00628548834475399
+"1183","zoo","attraction"," Australia",0.00628269159994878
+"1184","naturalparks","attraction"," Australia",0.00627882750806387
+"1185","beer","food"," Australia",0.00627690905190513
+"1186","festivals","cultural"," Australia",0.00627580814930753
+"1187","secluded","landscape"," Australia",0.00626709514517164
+"1188","skydiving","activity"," Australia",0.00626180004150341
+"1189","countryside","naturalfeature"," Australia",0.0062612322083785
+"1190","sightseeing","activity"," Australia",0.00625561037337
+"1191","university","landmark"," Australia",0.00625544249957761
+"1192","windsurfing","activity"," Australia",0.00625515077902903
+"1193","musicals","cultural"," Australia",0.00625509669519435
+"1194","nightlife","lifestyle"," Australia",0.00625452006140914
+"1195","football","activity"," Australia",0.00624179953010973
+"1196","finedining","food"," Australia",0.00623604513525334
+"1197","seafood","food"," Australia",0.00623538776427724
+"1198","aquarium","attraction"," Australia",0.00623332677565184
+"1199","ecotourism","activity"," Australia",0.00622504772950343
+"1200","sharks","activity"," Australia",0.00622479171646463
+"1201","horsebackriding","activity"," Australia",0.00622450846552718
+"1202","waterskiing","activity"," Australia",0.00621888415838028
+"1203","rafting","activity"," Australia",0.00621871311078415
+"1204","basketball","activity"," Australia",0.00621719392829088
+"1205","sunnyweather","weather"," Australia",0.0062149976077033
+"1206","skiing","activity"," Australia",0.00621436809943473
+"1207","cocktails","food"," Australia",0.00620325779702997
+"1208","architecture","architecture"," Australia",0.00619854975085937
+"1209","excursions","activity"," Australia",0.00619605955137784
+"1210","trendy","lifestyle"," Australia",0.00619497270704032
+"1211","rainforest","naturalfeature"," Australia",0.00619435084856519
+"1212","monuments","landmark"," Australia",0.0061918551462436
+"1213","skyscrapers","architecture"," Australia",0.00618911390896397
+"1214","churches","architecture"," Australia",0.00618882888378482
+"1215","castle","architecture"," Australia",0.00618761346235367
+"1216","rockclimbing","activity"," Australia",0.00618741914758762
+"1217","jazz","cultural"," Australia",0.00618521686990007
+"1218","waterparks","attraction"," Australia",0.00618501016819713
+"1219","volcanoes","naturalfeature"," Australia",0.00618078589168462
+"1220","cathedral","architecture"," Australia",0.00617551786931636
+"1221","birdwatching","activity"," Australia",0.00617214730065696
+"1222","coralreefs","activity"," Australia",0.00617142773803741
+"1223","safari","activity"," Australia",0.00617083906659359
+"1224","stargazing","activity"," Australia",0.00616906758984893
+"1225","soccer","activity"," Australia",0.00616617383068374
+"1226","rowing","activity"," Australia",0.00616381679216114
+"1227","friendlypeople","social"," Australia",0.00616324109232692
+"1228","temples","architecture"," Australia",0.00616237492392596
+"1229","resorts","lodging"," Australia",0.00616096384902338
+"1230","horseracing","activity"," Australia",0.00615954274658391
+"1231","segwaytours","activity"," Australia",0.00615951002242036
+"1232","hunting","activity"," Australia",0.00615844896721399
+"1233","running","activity"," Australia",0.0061575882862528
+"1234","snowboarding","activity"," Australia",0.0061572697342396
+"1235","ruins","architecture"," Australia",0.00615718609703915
+"1236","crosscountryskiing","activity"," Australia",0.00615694575617803
+"1237","caveexploring","activity"," Australia",0.00615683090402027
+"1238","hotsprings","naturalfeature"," Australia",0.00615648587500336
+"1239","archaeology","historical"," Australia",0.00615587255200026
+"1240","snowshoeing","activity"," Australia",0.00615537740689723
+"1241","kitesurfing","activity"," Australia",0.00615455868941467
+"1242","snowtubing","activity"," Australia",0.00615258870638135
+"1243","snowmobileriding","activity"," Australia",0.00615240288286503
+"1244","iceskating","activity"," Australia",0.00615220039411998
+"1245","sledding","activity"," Australia",0.00615217185995333
+"1246","baseball","activity"," Australia",0.00615144301543298
+"1247","glaciers","naturalfeature"," Australia",0.00615144301543298
+"1248","hockey","activity"," Australia",0.00615144301543298
+"1249","indoorskiing","activity"," Australia",0.00615144301543298
+"1250","northernlights","naturalfeature"," Australia",0.00615144301543298
+"1251","unescosite","historical"," Australia",0.00615144301543298
+"1252","dining","activity"," Japan",0.013716053334102
+"1253","restaurants","social"," Japan",0.012876257673944
+"1254","shopping","shopping"," Japan",0.0114831659544338
+"1255","walking","activity"," Japan",0.00895887838304631
+"1256","food","food"," Japan",0.00892954612921988
+"1257","business","field"," Japan",0.00838224456292441
+"1258","familyfriendly","social"," Japan",0.00814771531778696
+"1259","historical","historical"," Japan",0.0079066159262648
+"1260","tours","activity"," Japan",0.00783126984234233
+"1261","museums","cultural"," Japan",0.00775670547347141
+"1262","bars","social"," Japan",0.00772395201316014
+"1263","spas","activity"," Japan",0.00770494184827954
+"1264","gardens","attraction"," Japan",0.00767307776025312
+"1265","temples","architecture"," Japan",0.00753439128705167
+"1266","art","cultural"," Japan",0.00725803806485184
+"1267","budget","lifestyle"," Japan",0.00722165756766799
+"1268","sea","naturalfeature"," Japan",0.0071273199977825
+"1269","relaxing","lifestyle"," Japan",0.00711320479215158
+"1270","urban","urban"," Japan",0.00707087710959433
+"1271","sports","activity"," Japan",0.00704716307646902
+"1272","coffee","food"," Japan",0.00704062025292348
+"1273","castle","architecture"," Japan",0.00701371334490564
+"1274","markets","shopping"," Japan",0.00700363651052973
+"1275","festivals","cultural"," Japan",0.00698040570557112
+"1276","themepark","attraction"," Japan",0.00695154768798102
+"1277","swimming","activity"," Japan",0.00690397436217215
+"1278","hotsprings","naturalfeature"," Japan",0.00683521051861695
+"1279","monuments","landmark"," Japan",0.00680243338417655
+"1280","river","naturalfeature"," Japan",0.00678164801844868
+"1281","mountains","naturalfeature"," Japan",0.00677427787421196
+"1282","skiing","activity"," Japan",0.00676660873880057
+"1283","luxury","lifestyle"," Japan",0.00673136718936873
+"1284","entertainment","cultural"," Japan",0.00672908271046901
+"1285","beach","naturalfeature"," Japan",0.00671354678567007
+"1286","culture","cultural"," Japan",0.00671243139079321
+"1287","sightseeing","activity"," Japan",0.00670840120825216
+"1288","cafes","social"," Japan",0.0066615529812513
+"1289","theater","cultural"," Japan",0.00666052118262055
+"1290","biking","activity"," Japan",0.0066408655728038
+"1291","hiking","activity"," Japan",0.00660225563728371
+"1292","lake","naturalfeature"," Japan",0.00660030041598827
+"1293","nightclubs","social"," Japan",0.00659048651403365
+"1294","port","transport"," Japan",0.00658437420789867
+"1295","islands","naturalfeature"," Japan",0.00657044002897021
+"1296","dancing","activity"," Japan",0.00654408833353618
+"1297","nature","naturalfeature"," Japan",0.00653994211464275
+"1298","livemusic","cultural"," Japan",0.00653621881097742
+"1299","architecture","architecture"," Japan",0.00652760020473406
+"1300","boating","activity"," Japan",0.00652579152834554
+"1301","beer","food"," Japan",0.00651660521778029
+"1302","smalltown","urban"," Japan",0.00651087383304901
+"1303","nightlife","lifestyle"," Japan",0.00649147249991284
+"1304","forests","naturalfeature"," Japan",0.00647184449082332
+"1305","scenery","landscape"," Japan",0.0064639728006534
+"1306","golf","activity"," Japan",0.0064598400107604
+"1307","skyscrapers","architecture"," Japan",0.00645716158652524
+"1308","university","landmark"," Japan",0.00645627746073397
+"1309","aquarium","attraction"," Japan",0.00645305779263643
+"1310","hilly","landscape"," Japan",0.00645297603385703
+"1311","ferry","transport"," Japan",0.00645235255678289
+"1312","romantic","lifestyle"," Japan",0.00645104378251221
+"1313","zoo","attraction"," Japan",0.00644658264959507
+"1314","baseball","activity"," Japan",0.00643077274975177
+"1315","musicals","cultural"," Japan",0.00642668586964386
+"1316","waterfalls","naturalfeature"," Japan",0.00640913076681902
+"1317","fishing","activity"," Japan",0.00639645793018653
+"1318","conferences","activity"," Japan",0.00639597860370201
+"1319","volcanoes","naturalfeature"," Japan",0.00638838072956067
+"1320","running","activity"," Japan",0.00638160144286151
+"1321","chinatown","tourism"," Japan",0.00637918357377413
+"1322","secluded","landscape"," Japan",0.0063773622478351
+"1323","adventure","activity"," Japan",0.00637653460456849
+"1324","diving","activity"," Japan",0.00637637885759966
+"1325","whalewatching","activity"," Japan",0.00637618309505133
+"1326","seafood","food"," Japan",0.00637218791554638
+"1327","churches","architecture"," Japan",0.00637011442434465
+"1328","sunsets","activity"," Japan",0.00636461606880039
+"1329","ruins","architecture"," Japan",0.00636337504771661
+"1330","snowboarding","activity"," Japan",0.0063613062964984
+"1331","surfing","activity"," Japan",0.00635785222899277
+"1332","jazz","cultural"," Japan",0.0063573566116308
+"1333","tropical","weather"," Japan",0.00635628386072602
+"1334","countryside","naturalfeature"," Japan",0.00635502647588193
+"1335","naturalparks","attraction"," Japan",0.00635462849911378
+"1336","snorkeling","activity"," Japan",0.00635451632598906
+"1337","cathedral","architecture"," Japan",0.00635186291562631
+"1338","camping","activity"," Japan",0.00634949048188869
+"1339","horsebackriding","activity"," Japan",0.00634904967821447
+"1340","excursions","activity"," Japan",0.00634904666728416
+"1341","sharks","activity"," Japan",0.00634786210869672
+"1342","snowshoeing","activity"," Japan",0.00634477398572036
+"1343","trendy","lifestyle"," Japan",0.00633874542413505
+"1344","sailing","activity"," Japan",0.0063362242609194
+"1345","desert","naturalfeature"," Japan",0.00633581706064735
+"1346","finedining","food"," Japan",0.00633471386281777
+"1347","snowmobileriding","activity"," Japan",0.00633398677493415
+"1348","sunrise","activity"," Japan",0.00633392085259268
+"1349","crosscountryskiing","activity"," Japan",0.00633293847130284
+"1350","kayaking","activity"," Japan",0.00633053729742977
+"1351","cocktails","food"," Japan",0.00632986765093446
+"1352","wildlife","naturalfeature"," Japan",0.00632944287209881
+"1353","sunnyweather","weather"," Japan",0.00632712737354311
+"1354","waterparks","attraction"," Japan",0.00632611848759405
+"1355","rowing","activity"," Japan",0.0063241439996926
+"1356","soccer","activity"," Japan",0.00632333290862834
+"1357","jungle","naturalfeature"," Japan",0.00632240383964609
+"1358","rafting","activity"," Japan",0.0063214838485691
+"1359","rockclimbing","activity"," Japan",0.00632123655576311
+"1360","snowtubing","activity"," Japan",0.00632019813585104
+"1361","sledding","activity"," Japan",0.00631831494694281
+"1362","waterskiing","activity"," Japan",0.00631757815198845
+"1363","skydiving","activity"," Japan",0.00631750962518409
+"1364","horseracing","activity"," Japan",0.0063173248605007
+"1365","archaeology","historical"," Japan",0.00631668924172896
+"1366","windsurfing","activity"," Japan",0.00631592674284101
+"1367","friendlypeople","social"," Japan",0.00631569064123508
+"1368","basketball","activity"," Japan",0.00631461836941445
+"1369","ecotourism","activity"," Japan",0.00631446038348425
+"1370","marina","urban"," Japan",0.00631242087886909
+"1371","safari","activity"," Japan",0.00631193702812354
+"1372","wineries","attraction"," Japan",0.00631135353499094
+"1373","birdwatching","activity"," Japan",0.00631110854313669
+"1374","coralreefs","activity"," Japan",0.00631041832602974
+"1375","football","activity"," Japan",0.00631032725750227
+"1376","iceskating","activity"," Japan",0.00630998586238599
+"1377","hockey","activity"," Japan",0.00630976806356621
+"1378","segwaytours","activity"," Japan",0.00630932057938575
+"1379","opera","cultural"," Japan",0.00630861995379166
+"1380","hunting","activity"," Japan",0.00630803251440081
+"1381","caveexploring","activity"," Japan",0.00630760783432088
+"1382","resorts","lodging"," Japan",0.0063074030788462
+"1383","casino","entertainment"," Japan",0.00630734701600877
+"1384","glaciers","naturalfeature"," Japan",0.00630641795039649
+"1385","indoorskiing","activity"," Japan",0.00630641795039649
+"1386","kitesurfing","activity"," Japan",0.00630641795039649
+"1387","northernlights","naturalfeature"," Japan",0.00630641795039649
+"1388","rainforest","naturalfeature"," Japan",0.00630641795039649
+"1389","stargazing","activity"," Japan",0.00630641795039649
+"1390","unescosite","historical"," Japan",0.00630641795039649
